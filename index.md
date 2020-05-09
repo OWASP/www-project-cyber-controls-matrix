@@ -79,7 +79,7 @@ Your Name Here (Your URL Here)
 
 #### License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial. The required attribution for use of the OCCM per this license is specified below.
+This work is licensed under a [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial. The required attribution for use of the OCCM per this license is specified below.
 
 #### Copyright
 
