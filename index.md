@@ -47,13 +47,17 @@ Design principles of easy contribution, accelerated growth, and continuous impro
 ## Industry Perspectives
 
 >"Complying with multiple cybersecurity frameworks is one of the top challenges we’ve heard from our Member organizations." (Center for Internet Security, 3/2020)
+
 >"... multiple frameworks are often needed, but the task of managing them becomes almost impossible to implement." (CSO Online, 7/2010)
+
 >"One major challenge compliance teams ran into again and again is that they tended to do a lot of duplicative work in order to meet multiple regulatory standards." (Hyperproof, 3/2020)
+
 >"Pursuing multiple frameworks at the same time can overwhelm founders, especially without expert guidance." (Laika, 1/2020)
 
 ## From the Creator / Project Lead
 
-"The capabilities of the OWASP Cyber Controls Matrix are something I have wanted to see my entire career. It is my honor to create it and give it to the entire Cybersecurity industry as an open-source OWASP project. Per the license, I encourage both commercial and non-commercial products to fully incorporate it and contribute back to the project. First and foremost, the OCCM is a community driven effort. All submissions, ideas, promotion, and discourse are greatly appreciated." -- Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/)
+"The capabilities of the OWASP Cyber Controls Matrix are something I have wanted to see my entire career. It is my honor to create it and give it to the entire Cybersecurity industry as an open-source OWASP project. Per the license, I encourage both commercial and non-commercial products to fully incorporate it and contribute back to the project. First and foremost, the OCCM is a community driven effort. All submissions, ideas, promotion, and discourse are greatly appreciated."
+-- Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/)
 
 ## Contributions
 
@@ -65,13 +69,15 @@ Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) \[Creator /
 
 Your Name Here (Your URL Here)
 
-## License, Disclaimer, and Attribution
+## License, Copyright, Disclaimer, and Attribution
 
-This work is licensed under a [![Creative Commons Attribution 4.0 International]](https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial.
+This work is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial.
+
+The OWASP Cyber Controls Matrix (OCCM) is copyright the OWASP Foundation, Inc. (https://owasp.org) Control identifiers (IDs), Control Names, and any related attributes are copyright their respective owners. Trademarks belong to their respective owners. Contributors to the OCCM do so freely and do not hold any ownership, copyright, or rights in the OCCM or its content. Contributions may include, but are not limited to: information, content, assistance, ideas, software code, employment, licensing, and sponsorship.
 
 No warranties or representation of any kind are expressed or implied regarding the OWASP Cyber Controls Matrix (OCCM), its copyright owner, its creator, and any individuals associated with the project.  This includes, but is not limited to: accuracy, completeness, applicability, fitness, negligence, correctness, use of, or inability to use the information contained within or associated with the OCCM. The OCCM and associated content are comprimised of data and subjective opinion, either of which may be in error and are not to be construed as objective, correct, or factual. The OCCM and its copyright owner do not make any warranty or representation of fitness or merchantability for any purpose. The OCCM and its copyright owner shall not be liable, under any circumstances, for any direct, indirect, incidental, special, or consequential damages or claims that result from the use of, inability to use, or merchantability of the OCCM, anything associated with the OCCM, or any person associated with the OCCM. The OCCM license provides further important disclaimers and legal text.
 
 Required attribution:
-<sub><sup>"The OWASP Cyber Controls Matrix (OCCM) is copyright the OWASP Foundation, Inc. (https://owasp.org) (https://owasp.org/www-project-cyber-controls-matrix/) and was created by Eric Bragger (https://www.linkedin.com/in/eric-bragger/)."
-"The OCCM is licensed under a Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial."
-"No warranties or representation of any kind are expressed or implied regarding the OWASP Cyber Controls Matrix (OCCM), its copyright owner, its creator, and any individuals associated with the project.  This includes, but is not limited to: accuracy, completeness, applicability, fitness, negligence, correctness, use of, or inability to use the information contained within or associated with the OCCM. The OCCM and associated content are comprimised of data and subjective opinion, either of which may be in error and are not to be construed as objective, correct, or factual. The OCCM and its copyright owner do not make any warranty or representation of fitness or merchantability for any purpose. The OCCM and its copyright owner shall not be liable, under any circumstances, for any direct, indirect, incidental, special, or consequential damages or claims that result from the use of, inability to use, or merchantability of the OCCM, anything associated with the OCCM, or any person associated with the OCCM. The OCCM license provides further important disclaimers and legal text."</sup></sub>
+<sub><sup><p>"The OWASP Cyber Controls Matrix (OCCM) is copyright the OWASP Foundation, Inc. (https://owasp.org) (https://owasp.org/www-project-cyber-controls-matrix/) and was created by Eric Bragger (https://www.linkedin.com/in/eric-bragger/)."</p>
+<p>"The OCCM is licensed under a Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial."</p>
+<p>"No warranties or representation of any kind are expressed or implied regarding the OWASP Cyber Controls Matrix (OCCM), its copyright owner, its creator, and any individuals associated with the project.  This includes, but is not limited to: accuracy, completeness, applicability, fitness, negligence, correctness, use of, or inability to use the information contained within or associated with the OCCM. The OCCM and associated content are comprimised of data and subjective opinion, either of which may be in error and are not to be construed as objective, correct, or factual. The OCCM and its copyright owner do not make any warranty or representation of fitness or merchantability for any purpose. The OCCM and its copyright owner shall not be liable, under any circumstances, for any direct, indirect, incidental, special, or consequential damages or claims that result from the use of, inability to use, or merchantability of the OCCM, anything associated with the OCCM, or any person associated with the OCCM. The OCCM license provides further important disclaimers and legal text."</p></sup></sub>
