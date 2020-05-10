@@ -11,7 +11,7 @@ pitch: Solve the problem of multiple cyber standards by consolidating them, redu
 
 ![OWASP Incubator Project](https://img.shields.io/badge/OWASP-Incubator%20Project-blue)
 ![Release](https://img.shields.io/badge/release-tbd-blue)
-![License](https://img.shields.io/badge/license-CC--BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
+[![License](https://img.shields.io/badge/license-CC--BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Purpose
 
@@ -21,7 +21,7 @@ The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber 
 
 ## Description
 
-#### The Challenge
+#### Consolidation
 
 Most organizations today must comply with two or more standards in their quest for enhanced Cybersecurity and compliance. This has traditionally been a very linear process, but the OCCM transforms it into a much more parallel one: de-duplicating effort. The OCCM means less time implementing, less time documenting, better results, and no more backtracking.
 
@@ -64,6 +64,7 @@ Design principles of easy contribution, accelerated growth, and continuous impro
 ## Contributions
 
 Contributions to the OCCM are welcome and appreciated.
+
 Contributors acknowledge that by contributing, copyright for all contributions will be transferred in full to the OWASP Foundation, Inc.
 Please see the "License, Copyright, Disclaimer, and Attribution" section for further details.
 
@@ -79,7 +80,7 @@ Your Name Here (Your URL Here)
 
 Please indicate the OWASP Cyber Controls Matrix in membership, donation, and sponsorship comments if you wish to specifically and directly support this project. General contributions to the OWASP Foundation will also support this project and others like it.
 
-All OWASP Projects are run and developed by volunteers and rely on [memberships](https://owasp.org/membership/), [personal donations](https://owasp.org/donate/), and [corporate memberships / sponsorships](https://owasp.org/supporters/) to continue their development. OWASP does not endorse or recommend commercial products or services, allowing our community to remain vendor neutral and focused on applying the collective wisdom of some of the best minds in Cybersecurity worldwide.
+All OWASP Projects are run and developed by volunteers and rely on [individual memberships](https://owasp.org/membership/), [personal donations](https://owasp.org/donate/), and [corporate memberships / sponsorships](https://owasp.org/supporters/) to continue their development. OWASP does not endorse or recommend commercial products or services, allowing our community to remain vendor neutral and focused on applying the collective wisdom of some of the best minds in Cybersecurity worldwide.
 
 The OWASP Foundation, Inc. is a non-profit 501(c)3 charitable organization. Some financial contributions may qualify for a tax deduction. Consult with a tax professional for details.
 
