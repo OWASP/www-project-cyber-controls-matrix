@@ -1,17 +1,16 @@
-### Cyber Controls Matrix Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+## The OWASP Cyber Controls Matrix (OCCM)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+### Project Classification
 
-### Code Repository
-* [repo](#)
+* <i class="fas fa-egg" style="color:#233e81;"></i> Incubator Project
+* <i class="fas fa-book" style="color:#233e81;"></i> Documentation
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
+* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
-### Change Log
-* [changes](#)
+### What is the OCCM?
 
+* Consolidation of Control Sets and Knowledge via...
+  - Direct Mapping
+  - Normalization
+  - Cyber Taxonomy
+  - Levels of Detail
