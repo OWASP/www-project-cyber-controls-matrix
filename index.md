@@ -75,6 +75,14 @@ Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) \[Creator /
 
 Your Name Here (Your URL Here)
 
+## Membership, Donations, and Sponsorship
+
+Please indicate the OWASP Cyber Controls Matrix in membership, donation, and sponsorship comments if you wish to specifically and directly support this project. General contributions to the OWASP Foundation will also support this project and others like it.
+
+All OWASP Projects are run and developed by volunteers and rely on [memberships](https://owasp.org/membership/), [personal donations](https://owasp.org/donate/), and [corporate memberships / sponsorships](https://owasp.org/supporters/) to continue their development. OWASP does not endorse or recommend commercial products or services, allowing our community to remain vendor neutral and focused on applying the collective wisdom of some of the best minds in Cybersecurity worldwide.
+
+The OWASP Foundation, Inc. is a non-profit 501(c)3 charitable organization. Some financial contributions may qualify for a tax deduction. Consult with a tax professional for details.
+
 ## License, Copyright, Disclaimer, Limitations, and Required Attribution
 
 #### License
@@ -83,7 +91,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International (C
 
 #### Copyright
 
-The OWASP Cyber Controls Matrix (OCCM) is copyright the OWASP Foundation, Inc. (https://owasp.org) Control identifiers (IDs), Control Names, and any related attributes are copyright their respective owners. Trademarks belong to their respective owners. Contributors to the OCCM do so freely and do not hold any ownership, copyright, or rights in the OCCM or its content. Contributions may include, but are not limited to: information, content, assistance, ideas, software code, employment, licensing, and sponsorship.
+The OWASP Cyber Controls Matrix (OCCM) is copyright the OWASP Foundation, Inc. (https://owasp.org) Control Identifiers (IDs), Control Names, and any related attributes are copyright their respective owners. Trademarks belong to their respective owners. Contributors to the OCCM do so freely and do not hold any ownership, copyright, or rights in the OCCM or its content. Contributions may include, but are not limited to: information, content, assistance, ideas, software code, employment, licensing, financial support, and sponsorship.
 
 #### Disclaimer and Limitations
 
