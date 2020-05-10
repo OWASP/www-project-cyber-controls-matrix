@@ -15,7 +15,7 @@ pitch: Solve the problem of multiple cyber standards by consolidating them, redu
 
 ## Purpose
 
-The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber controls between controls sets and frameworks.
+The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber controls across different controls sets and frameworks.
 
 <p class="callout-mono right">Solve the problem of multiple cyber standards by consolidating them, reducing duration and effort by months. The OCCM does this and much more!</p>
 
@@ -31,7 +31,7 @@ Supercharging Cybersecurity knowledge, the OCCM points cyber analysts to the gui
 
 #### Relevance
 
-Control relationships in the OCCM are viewable at three separate levels of detail, solving the problem of too-strict or too-loose mapping. Each individual control in the OCCM relates directly to other controls ("one-to-many"), instead of the common industry practice of grouping controls together ("many-to-many"). Common practice results in the handshake problem, which looks like "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5"... generating 25 total relationships! This requires analysis of 5 relationships per "A" control that may have little to no direct relevance.
+Control relationships in the OCCM are directly mapped and viewable at three separate levels of detail, solving the problem of too-strict or too-loose mapping. Each individual control in the OCCM relates directly to other controls ("one-to-many"), instead of the common industry practice of grouping controls together ("many-to-many"). Common practice results in the handshake problem, which looks like "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5"... generating 25 total relationships! This requires analysis of 5 relationships per "A" control that may have little to no direct relevance.
 
 Using the OCCM, this can be reduced to:
 - High Level	"A1 -> B1, B2, B3, B4, B5"   \[5 relationships]
@@ -44,7 +44,7 @@ There is a multi-level cyber taxonomy at the core of the OCCM, to which all the 
 
 #### Growth
 
-Design principles of easy contribution, accelerated growth, and continuous improvement have shaped the OCCM. Once a new control is added and normalized, it is automatically mapped to every other control across all standards. There is no longer a need for an analyst to search for a specific mapping between two different standards or create their own. Every standard in the OCCM is automatically mapped to every other standard, increasing its scope accordingly.
+Design principles of easy contribution, accelerated growth, and continuous improvement have shaped the OCCM. Once a new control is added and normalized, it is automatically mapped to every other control across all standards. There is no longer a need for an analyst to search for a mapping between two different standards or create their own. Every standard in the OCCM is automatically mapped to every other standard, exponentially increasing its scope.
 
 ## Industry Perspectives
 
