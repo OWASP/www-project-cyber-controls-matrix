@@ -56,7 +56,7 @@ Design principles of easy contribution, accelerated growth, and continuous impro
 
 >"Pursuing multiple frameworks at the same time can overwhelm founders, especially without expert guidance." (Laika, 1/2020)
 
-## From the Creator / Project Lead
+## From the Creator / Project Leader
 
 <p>"The capabilities of the OWASP Cyber Controls Matrix are something I have wanted to see my entire career. It is my honor to create it and give it to the entire Cybersecurity industry as an open-source OWASP project. Per the license, I encourage both commercial and non-commercial products to fully incorporate it and contribute back to the project. First and foremost, the OCCM is a community driven effort. All submissions, ideas, promotion, and discourse are greatly appreciated."</p>
 -- Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/)
@@ -69,7 +69,7 @@ Please see the "License, Copyright, Disclaimer, and Attribution" section for fur
 
 ## Core Team
 
-Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) \[Creator / Project Lead]
+Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) \[Creator / Project Leader]
 
 ## Contributor List
 
