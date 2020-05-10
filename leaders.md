@@ -1,2 +1,2 @@
 ### Leaders
-* [Eric Bragger](mailto:infosec@bragger.net)
+* Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/)
