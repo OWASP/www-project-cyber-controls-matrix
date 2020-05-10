@@ -58,8 +58,7 @@ Design principles of easy contribution, accelerated growth, and continuous impro
 
 ## From the Creator / Project Leader
 
-<p>"The capabilities of the OWASP Cyber Controls Matrix are something I have wanted to see my entire career. It is my honor to create it and give it to the entire Cybersecurity industry as an open-source OWASP project. Per the license, I encourage both commercial and non-commercial products to fully incorporate it and contribute back to the project. First and foremost, the OCCM is a community driven effort. All submissions, ideas, promotion, and discourse are greatly appreciated."</p>
--- Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/)
+"The capabilities of the OWASP Cyber Controls Matrix are something I have wanted to see my entire career. It is my honor to create it and give it to the entire Cybersecurity industry as an open-source OWASP project. Per the license, I encourage both commercial and non-commercial products to fully incorporate it and contribute back to the project. First and foremost, the OCCM is a community driven effort. All submissions, ideas, promotion, and discourse are greatly appreciated. Thank you for your support!" -- Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/)
 
 ## Contributions
 
@@ -88,7 +87,7 @@ The OWASP Foundation, Inc. is a non-profit 501(c)3 charitable organization. Some
 
 #### License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial. The required attribution for use of the OCCM per this license is specified below.
+This work is licensed under a [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial, with attribution. The required attribution for use of the OCCM per this license is specified below.
 
 #### Copyright
 
