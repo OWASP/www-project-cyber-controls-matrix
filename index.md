@@ -14,13 +14,13 @@ pitch: Solve the problem of multiple cyber standards by consolidating them, redu
 [![License](https://img.shields.io/badge/license-CC--BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Purpose
-&nbsp;
+
 The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber controls across different controls sets and frameworks.
 
 <p class="callout-mono right">Solve the problem of multiple cyber standards by consolidating them, reducing duration and effort by months. The OCCM does this and much more!</p>
 
 ## Description
-&nbsp;
+
 #### Consolidation
 
 Most organizations today must comply with two or more standards in their quest for enhanced Cybersecurity and compliance. This has traditionally been a very linear process, but the OCCM transforms it into a much more parallel one: de-duplicating effort. This can reduce project duration and effort by months. The OCCM means less time implementing, less time documenting, better results, and no more backtracking.
