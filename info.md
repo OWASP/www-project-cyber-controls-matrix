@@ -10,4 +10,7 @@
 ### What is the OCCM?
 
 Consolidation of Control Sets, Knowledge, and Timelines via...
-<p>* Direct Mapping</p><p>* Normalization</p><p>* Cyber Taxonomy</p><p>* Levels of Detail</p>
+* * Direct Mapping
+* * Normalization
+* * Cyber Taxonomy
+* * Levels of Detail
