@@ -14,6 +14,7 @@ pitch: Solve the problem of multiple cyber standards by consolidating them, redu
 [![License](https://img.shields.io/badge/license-CC--BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
 <p class="callout-mono left">Solve the problem of multiple cyber standards by consolidating them, reducing duration and effort by months. The OCCM does this and much more!</p>
+<div>
 ## Description
 
 The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber controls across different controls sets and frameworks.
@@ -104,3 +105,4 @@ Per the open license, the following attribution paragraphs must be included with
 <sub><sup>"The OCCM is licensed under a Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial and government."</sup></sub>
 
 <sub><sup>"No warranties or representation of any kind are expressed or implied regarding the OWASP Cyber Controls Matrix (OCCM), its copyright owner, its creator, and any individuals associated with the project.  This includes, but is not limited to: accuracy, completeness, applicability, fitness, negligence, correctness, use of, or inability to use the information contained within or associated with the OCCM. The OCCM and associated content are comprised of data and subjective opinion, any of which may be in error and are not to be construed as objective, correct, or factual. The OCCM and its copyright owner do not make any warranty or representation of fitness or merchantability for any purpose. The OCCM and its copyright owner shall not be liable, under any circumstances, for any direct, indirect, incidental, special, or consequential damages or claims that result from the use of, inability to use, or merchantability of the OCCM, anything associated with the OCCM, or any person associated with the OCCM. The full OCCM license provides further important disclaimers, limitations, and legal text."</sup></sub>
+</div>
