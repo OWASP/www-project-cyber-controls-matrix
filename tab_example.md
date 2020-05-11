@@ -1,11 +1,19 @@
 ---
-title: Example
+title: Releases
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: OCCM
 ---
 
-## Example
+## The OCCM is currently in pre-release.
+## Please see the Roadmap tab for an intended release schedule.
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Core functionality is operational (schema and code for automated mapping).<br>
+It just takes time to create the initial Cybersecurity Taxonomy and normalize hundreds of controls across the first control sets.
+
+## Releases
+
+Version | Date | Location | Comments
+------- | ---- | -------- | --------
+tbd | tbd | tbd | -
