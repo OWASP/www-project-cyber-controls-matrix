@@ -8,5 +8,5 @@ tags: OCCM
 
 ## News
 Date | Event
-------- | --------------
+------- | -----
 11 May 2020 | Project Launched
