@@ -14,7 +14,6 @@ pitch: Solve the problem of multiple cyber standards by consolidating them, redu
 [![License](https://img.shields.io/badge/license-CC--BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
 <p class="callout-mono left">Solve the problem of multiple cyber standards by consolidating them, reducing duration and effort by months. The OCCM does this and much more!</p>
-<div>
 ## Description
 
 The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber controls across different controls sets and frameworks.
@@ -29,11 +28,11 @@ Supercharging Cybersecurity knowledge, the OCCM points cyber analysts to the gui
 
 #### Relevance
 
-Control relationships in the OCCM are directly mapped and viewable at three separate levels of detail, solving the problem of too-strict or too-loose mapping. Each individual control in the OCCM relates directly to other controls ("one-to-many"), instead of the common industry practice of grouping controls together ("many-to-many"). Common practice results in the handshake problem, which looks like "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5"... generating 25 total relationships! This requires analysis of 5 relationships per "A" control that may have little to no direct relevance.
+Control relationships in the OCCM are directly mapped and viewable at three separate levels of detail, solving the fundamental issues of too-strict or too-loose mapping. Each individual control in the OCCM relates directly to other controls ("one-to-many"), instead of the common industry practice of grouping controls together ("many-to-many"). The common practice results in a handshake problem, where every control in group "A" is mapped to every other control in group "B". For example, "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5" generates 25 total relationships! This requires analysis of 5 relationships per "A" control, some of which may have little to no direct relevance.
 
-Using the OCCM, this can be reduced to:
-- High Level	"A1 -> B1, B2, B3, B4, B5"   \[5 relationships]
--	Medium Level	"A1 -> B1, B2, B3"   \[3 relationships]
+Using the OCCM, this is greatly simplified and reduced to:
+- High Level	"A1 -> B1, B2, B3"   \[3 relationships]
+-	Medium Level	"A1 -> B1, B2"   \[2 relationships]
 -	Low Level	"A1 -> B1"   \[1 relationship]
 
 #### Cyber Taxonomy
@@ -105,4 +104,3 @@ Per the open license, the following attribution paragraphs must be included with
 <sub><sup>"The OCCM is licensed under a Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial and government."</sup></sub>
 
 <sub><sup>"No warranties or representation of any kind are expressed or implied regarding the OWASP Cyber Controls Matrix (OCCM), its copyright owner, its creator, and any individuals associated with the project.  This includes, but is not limited to: accuracy, completeness, applicability, fitness, negligence, correctness, use of, or inability to use the information contained within or associated with the OCCM. The OCCM and associated content are comprised of data and subjective opinion, any of which may be in error and are not to be construed as objective, correct, or factual. The OCCM and its copyright owner do not make any warranty or representation of fitness or merchantability for any purpose. The OCCM and its copyright owner shall not be liable, under any circumstances, for any direct, indirect, incidental, special, or consequential damages or claims that result from the use of, inability to use, or merchantability of the OCCM, anything associated with the OCCM, or any person associated with the OCCM. The full OCCM license provides further important disclaimers, limitations, and legal text."</sup></sub>
-</div>
