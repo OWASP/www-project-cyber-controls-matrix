@@ -18,17 +18,17 @@ pitch: Solve the problem of multiple cyber standards by consolidating them, redu
 ## Purpose
 
 The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber controls across different controls sets and frameworks.
-
+<br>
 ## Description
-
+<br>
 #### Consolidation
 
 Most organizations today must comply with two or more standards in their quest for enhanced Cybersecurity and compliance. This has traditionally been a very linear process, but the OCCM transforms it into a much more parallel one: de-duplicating effort. This can reduce project duration and effort by months. The OCCM means less time implementing, less time documenting, better results, and no more backtracking.
-
+<br>
 #### Knowledge
 
 Supercharging Cybersecurity knowledge, the OCCM points cyber analysts to the guidance, insights, references, and best practices available across all standards. This greatly improves understanding of how to implement and document controls, resulting in improved security and improved audit outcomes. Costly mistakes are also avoided thanks to visibility of other standards; ensuring that decisions also satisfy future security needs, not just the immediate ones.
-
+<br>
 #### Relevance
 
 Control relationships in the OCCM are directly mapped and viewable at three separate levels of detail, solving the problem of too-strict or too-loose mapping. Each individual control in the OCCM relates directly to other controls ("one-to-many"), instead of the common industry practice of grouping controls together ("many-to-many"). Common practice results in the handshake problem, which looks like "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5"... generating 25 total relationships! This requires analysis of 5 relationships per "A" control that may have little to no direct relevance.
@@ -59,7 +59,7 @@ Design principles of easy contribution, accelerated growth, and continuous impro
 ## From the Creator / Project Leader
 
 "The capabilities of the OWASP Cyber Controls Matrix are something I have wanted to see my entire career. It is my honor to create it and give it to the entire Cybersecurity industry as an open-source OWASP project. Per the license, I encourage commercial products, non-commercial products, and cyber practitioners to fully incorporate it and contribute back to the project. First and foremost, the OCCM is a community driven effort. All submissions, ideas, promotion, and discourse are greatly appreciated. Thank you for your support!"
-&nbsp;-- Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) [(Email)](mailto://eric.bragger@owasp.org)
+<br>-- Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) [(Email)](mailto://eric.bragger@owasp.org)
 
 ## Contributions
 
