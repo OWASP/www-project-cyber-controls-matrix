@@ -97,7 +97,7 @@ No warranties or representation of any kind are expressed or implied regarding t
 
 #### Required Attribution
 
-Per the open license, the following attribution paragraphs must be included with any written distribution (excluding discourse) or software distribution incorporating any part or whole of OCCM content:
+Per the open license, the following attribution paragraphs must be included with any written / electronic distribution (excluding articles and discourse) or software distribution that incorporates any part or whole of OCCM content.
 
 <sub><sup>"The OWASP Cyber Controls Matrix (OCCM) (https://owasp.org/www-project-cyber-controls-matrix/) is copyright the OWASP Foundation, Inc. (https://owasp.org) and was created by Eric Bragger (https://www.linkedin.com/in/eric-bragger/)."</sup></sub>
 
