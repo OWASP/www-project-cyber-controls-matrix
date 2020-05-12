@@ -8,17 +8,17 @@ tags: OCCM
 
 ## Project Roadmap
 
-* Status
-  * X = Done
-  * O = In Progress
+<b>Status</b>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; X = Done
+<br>&nbsp;&nbsp;&nbsp;&nbsp; O = In Progress
 
-<table style="white-space:nowrap;width:100%;">
+<table style="max-width:100%">
 <thead>
   <tr>
-    <th align="center">Status</th>
-    <th align="left">Planned</th>
-    <th align="left">Type</th>
-    <th align="left">Detail</th>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Status</th>
+    <th style="white-space:nowrap;padding:10px";vertical-align:top;text-align:center">Planned</th>
+    <th style="white-space:nowrap;padding:10px";vertical-align:top;text-align:left">Type</th>
+    <th style="vertical-align:top;text-align:"left">Detail</th>
   </tr>
 </thead>
 <tbody>
