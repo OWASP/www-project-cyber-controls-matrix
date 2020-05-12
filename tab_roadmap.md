@@ -12,7 +12,7 @@ tags: OCCM
   * X = Done
   * O = In Progress
 
-<table style="white-space:nowrap;width:100%;>
+<table style="white-space:nowrap;width:100%;">
 <thead>
   <tr>
     <th align="center">Status</th>
