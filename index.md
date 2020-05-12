@@ -48,7 +48,7 @@ The OCCM has been designed with the principles of easy contribution, accelerated
 
 ## Industry Perspectives
 
->"Complying with multiple cybersecurity frameworks is one of the top challenges we’ve heard from our Member organizations." (Center for Internet Security, 3/2020)
+<p class="callout-mono small">"Complying with multiple cybersecurity frameworks is one of the top challenges we’ve heard from our Member organizations." (Center for Internet Security, 3/2020)</p>
 
 >"... multiple frameworks are often needed, but the task of managing them becomes almost impossible to implement." (CSO Online, 7/2010)
 
