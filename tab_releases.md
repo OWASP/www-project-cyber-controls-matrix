@@ -6,6 +6,16 @@ order: 1
 tags: OCCM
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153589924-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153589924-2');
+</script>
+
 ## The OCCM is currently in pre-release.
 ## Please see the Roadmap tab for an intended release schedule.
 <br>
