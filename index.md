@@ -87,7 +87,9 @@ All OWASP Projects are run and developed by volunteers and rely on [individual m
 
 The OWASP Foundation, Inc. is a non-profit 501(c)3 charitable organization. Some financial contributions may qualify for a tax deduction. Consult with a tax professional for details.
 
-## Required Attribution, License, Copyright, Disclaimer and Limitations
+## Legal
+
+#### Required Attribution
 
 Per the open license, the following paragraphs must be included as attribution with any written / electronic distribution (excluding articles and discourse) or software distribution that incorporates any part or whole of the OWASP Cyber Controls Matrix (OCCM) content.
 
