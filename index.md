@@ -9,6 +9,16 @@ pitch: Solve the problem of multiple cyber standards by consolidating them, redu
 
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153589924-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153589924-2');
+</script>
+
 ![OWASP Incubator Project](https://img.shields.io/badge/OWASP-Incubator%20Project-blue)
 ![Release](https://img.shields.io/badge/release-tbd-blue)
 [![License](https://img.shields.io/badge/license-CC--BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
