@@ -2,7 +2,7 @@
 
 ### [https://cybercontrolsmatrix.com](https://cybercontrolsmatrix.com)
 
-
+&nbsp;
 ### Project Classification
 
 * <i class="fas fa-egg" style="color:#233e81;"></i> Incubator Project
@@ -10,7 +10,7 @@
 * <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
 * <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
-
+&nbsp;
 ### What is the OCCM?
 
 * Consolidation of Control Sets, Knowledge, and Timelines via:
