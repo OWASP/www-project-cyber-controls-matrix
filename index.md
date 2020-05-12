@@ -27,18 +27,20 @@ Most organizations today must comply with two or more standards in their quest f
 
 Supercharging Cybersecurity knowledge, the OCCM points cyber analysts to the guidance, insights, references, and best practices available across all standards. This greatly improves understanding of how to implement and document controls, resulting in improved security and improved audit outcomes. Costly mistakes are also avoided thanks to visibility of other standards; ensuring that decisions also satisfy future security needs, not just the immediate ones.
 
-#### Relevance
-
-Control relationships in the OCCM are directly mapped and viewable at three separate levels of detail, solving the fundamental issues of too-strict or too-loose mapping. Each individual control in the OCCM relates directly to other controls ("one-to-many"), instead of the common industry practice of grouping controls together ("many-to-many"). The common practice results in a handshake problem, where every control in group "A" is mapped to every other control in group "B". For example, "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5" generates 25 total relationships! This requires analysis of 5 relationships per "A" control, some of which may have little to no direct relevance.
-
-Using the OCCM, this is greatly simplified and reduced to:
-- High Level	"A1 -> B1, B2, B3"   \[3 relationships]
--	Medium Level	"A1 -> B1, B2"   \[2 relationships]
--	Low Level	"A1 -> B1"   \[1 relationship]
-
 #### Cyber Taxonomy
 
-There is a multi-level cyber taxonomy at the core of the OCCM, to which all the control relationships are normalized. Because of this, the resulting mapping is more consistent, objective, organized and reliable. No more vague groupings of controls or mysterious "black box" mappings. In the OCCM, it is clear how and why each control is related. Furthermore, this multi-level taxonomy facilitates easy research of cyber topics and objectives across all standards.
+There is a multi-level cyber taxonomy at the core of the OCCM, to which all the control relationships are normalized. As a result, the mappings are more consistent, objective, organized and reliable. No more vague groupings of controls or mysterious "black box" mappings. In the OCCM, it is clear how and why each control is related. Furthermore, this multi-level taxonomy facilitates easy research of cyber topics and objectives across all standards.
+
+#### Relevance
+
+Control relationships in the OCCM are directly mapped and viewable at three separate levels of detail, resolving the fundamental issues of too-strict or too-loose mapping. Each individual control in the OCCM relates directly to other controls ("one-to-many"), instead of the common industry practice of grouping controls together ("many-to-many"). This common practice results in a handshake problem, where every control in group "A" is mapped to every other control in group "B".
+
+For example, the group mapping "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5" generates 25 total relationships! This requires analysis of 5 relationships per "A" control, some of which may have little to no direct relevance.
+
+Using the OCCM, this example can be greatly simplified and reduced to...
+- High Level Mapping &nbsp;&nbsp; "A1 -> B1, B2, B3" &nbsp;&nbsp; \[3 relationships]
+-	Medium Level Mapping &nbsp;&nbsp; "A1 -> B1, B2" &nbsp;&nbsp; \[2 relationships]
+-	Low Level Mapping &nbsp;&nbsp; "A1 -> B1" &nbsp;&nbsp; \[1 relationship]
 
 #### Growth
 
