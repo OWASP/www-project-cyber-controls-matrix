@@ -12,17 +12,17 @@ tags: OCCM
   * X = Done
   * O = In Progress
 
-<table>
+<table style="white-space:nowrap;width:100%;>
 <thead>
   <tr>
-    <th align="center"><small>Status</small></th>
-    <th align="left"><small>Planned</small></th>
-    <th align="left"><small>Type</small></th>
-    <th align="left"><small>Detail</small></th>
+    <th align="center">Status</th>
+    <th align="left">Planned</th>
+    <th align="left">Type</th>
+    <th align="left">Detail</th>
   </tr>
 </thead>
 <tbody>
-<tr><td align="center">[<b>X</b>]</td><td>Q2 2020</td><td>Webpage</td><td><small>Initial Project Webpage</small></td></tr>
+<tr><td align="center">[<b>X</b>]</td><td>Q2 2020</td><td>Webpage</td><td>Initial Project Webpage</td></tr>
 <tr><td align="center">[O]</td><td>Q2 2020</td><td>Webpage</td><td>Mailing List for News / Releases</td></tr>
 <tr><td align="center">[O]</td><td>Q2 2020</td><td>Webpage</td><td>Key Benefits and Key Features tabs</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Illustrations for Key Benefits and Key Features</td></tr>
