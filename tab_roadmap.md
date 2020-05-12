@@ -26,7 +26,7 @@ tags: OCCM
 <tr><tr><td>[X]</td><td>Q2 2020</td><td>Webpage</td><td>Initial Project Webpage</td></tr>
 <tr><td>[O]</td><td>Q2 2020</td><td>Webpage</td><td>Mailing List for News / Releases</td></tr>
 <tr><td>[O]</td><td>Q2 2020</td><td>Webpage</td><td>Key Benefits and Key Features tabs</td></tr>
-<tr><td>[_]</td><td>Q2 2020</td><td>Webpage</td><td>Illustrations for primary Key Benefits and Key Features</td></tr>
+<tr><td>[_]</td><td>Q2 2020</td><td>Webpage</td><td>Illustrations for Key Benefits and Key Features</td></tr>
 <tr><td>[_]</td><td>Q2 2020</td><td>Webpage</td><td>Project Logos</td></tr>
 <tr><td>[_]</td><td>Q2 2020</td><td>Taxonomy</td><td>Pre-populate Cyber Taxonomy per NIST 800-53r5 Draft, CIS, OWASP, and other sources</td></tr>
 <tr><td>[_]</td><td>Q2 2020</td><td>Webpage</td><td>Sample Mappings</td></tr>
