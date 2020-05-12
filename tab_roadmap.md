@@ -8,9 +8,9 @@ tags: OCCM
 
 ## Project Roadmap
 
-<b>Status</b>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X = Done
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O = Ongoing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X = Done
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O = Ongoing
+<br>
 
 <table style="max-width:100%">
 <thead>
