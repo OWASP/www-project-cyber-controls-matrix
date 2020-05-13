@@ -16,3 +16,4 @@
   - &nbsp;&nbsp;&nbsp;\* Normalization
   - &nbsp;&nbsp;&nbsp;\* Cyber Taxonomy
   - &nbsp;&nbsp;&nbsp;\* Levels of Detail
+  - &nbsp;&nbsp;&nbsp;\* Increased Relevance
