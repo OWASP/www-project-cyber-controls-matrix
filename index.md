@@ -77,8 +77,8 @@ For example, the group mapping "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5" genera
 
 Using the OCCM, this example can be greatly simplified and reduced to...
 - High Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1, B2, B3" &nbsp;&nbsp; \[3 relationships]
--	Medium Level Mapping &nbsp;&nbsp; "A1 -> B1, B2" &nbsp;&nbsp;&nbsp;&nbsp; \[2 relationships]
--	Low Level Mapping &nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1" &nbsp;&nbsp; \[1 relationship]
+-	Medium Level Mapping &nbsp;&nbsp; "A1 -> B1, B2" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[2 relationships]
+-	Low Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1" &nbsp;&nbsp; \[1 relationship]
 
 #### Growth
 
