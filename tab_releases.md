@@ -6,7 +6,6 @@ order: 1
 tags: OCCM
 ---
 
-<br>
 <p><h2 style="text-align:center" target="_blank"><a href="https://eepurl.com/g3kJBP">Click here to be notified of OCCM news and releases !</a></h2><br></p>
 
 ## The OCCM is currently in pre-release.
