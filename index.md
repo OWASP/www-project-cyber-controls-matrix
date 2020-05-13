@@ -133,7 +133,7 @@ The OWASP Cyber Controls Matrix (OCCM) is licensed under a [Creative Commons Att
 
 #### Copyright
 
-The OWASP Cyber Controls Matrix (OCCM) (https://owasp.org/www-project-cyber-controls-matrix/) is copyright the OWASP Foundation, Inc. (https://owasp.org) and was created by Eric Bragger (https://www.linkedin.com/in/eric-bragger/). Control Identifiers (IDs), Control Names, and any related attributes are copyright their respective owners. Trademarks belong to their respective owners. Contributors to the OCCM do so freely and do not hold any ownership, copyright, or rights in the OCCM or its content. Contributions may include, but are not limited to: information, content, assistance, ideas, software code, employment, licensing, financial support, and sponsorship.
+The OWASP Cyber Controls Matrix (OCCM) (https://owasp.org/www-project-cyber-controls-matrix/) is copyright the OWASP Foundation, Inc. (https://owasp.org) and was created by Eric Bragger (https://www.linkedin.com/in/eric-bragger/). Control Identifiers (IDs), Control Names, and any related attributes are copyright their respective owners. Trademarks belong to their respective owners. The OCCM Creator and the OCCM Project Leader may retain certain copyright and other rights not afforded contributors. Contributors acknowledge that by contributing, copyright for all contributions will be transferred in full to the OWASP Foundation, Inc., the OCCM Creator, and the OCCM Project Leader. Contributions may include, but are not limited to: information, content, assistance, ideas, software code, submissions, employment, licensing, financial support, endorsement, and sponsorship.
 
 #### Disclaimer and Limitations
 
