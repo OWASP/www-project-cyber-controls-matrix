@@ -43,17 +43,18 @@ There is a multi-level cyber taxonomy at the core of the OCCM, to which all the 
 
 #### Levels of Detail
 
-Controls in the OCCM are included at all available levels, and each of those controls is normalized to three separate levels of detail in the Cyber Taxonomy. Audit checks are also supported. This ensures a comprehensive mapping that dives deep into the control set / framework, versus the surface mappings common in the industry that only indicate top-level controls.
+Controls in the OCCM are included at all available levels and each of those controls is normalized to three separate levels of detail in the Cyber Taxonomy. Audit checks are also supported. This ensures a comprehensive mapping that dives deep into the control set / framework, versus the surface mappings common in the industry that only indicate top-level controls.
 
-* Control Levels
-  0. Control Families / Headings
-  1. Top-Level Controls
-  2. Sub-Controls
-  3. Enhancements
-  4. etc.
+* Control Levels for Each Control
+  - Control Families / Headings
+  - Top-Level Controls
+  - Sub-Controls
+  - Enhancements
+  - etc.
 
-* Levels of Detail
-  - High-Level Topic (Area): ex. "Disaster Recovery" within a Control stating "Ensure there is a <b>Disaster Recovery (H)</b> Policy (M) and that it identifies Roles and Responsibilities (L)."
+* Levels of Detail for Each Control
+  - High-Level Topic (Area)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex. "Disaster Recovery" within a Control stating "Ensure there is a <b>Disaster Recovery (H)</b> Policy (M) and that it identifies Roles and Responsibilities (L)."
   - Medium-Level Topic (Object): ex. "Policy" within a Control stating "Ensure there is a Disaster Recovery (H) <b>Policy (M)</b> and that it identifies Roles and Responsibilities (L)."
   - Low-Level Topic (Target): ex. "Roles and Responsibilities" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) and that it identifies <b>Roles and Responsibilities (L)</b>."
 
