@@ -1,6 +1,7 @@
 ## The OWASP Cyber Controls Matrix (OCCM)
 
 ### [https://cybercontrolsmatrix.com](https://cybercontrolsmatrix.com)
+### [Mailing List](https://eepurl.com/g3kJBP)
 
 ### Project Classification
 
