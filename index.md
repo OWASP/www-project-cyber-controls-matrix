@@ -53,8 +53,8 @@ Controls in the OCCM are included at all available levels and each of those cont
   - etc.
 
 * Levels of Detail for Each Control
-  - High-Level Topic (Area)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex. "Disaster Recovery" within a Control stating "Ensure there is a <b>Disaster Recovery (H)</b> Policy (M) and that it identifies Roles and Responsibilities (L)."
+  - High-Level Topic (Area)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex. "Disaster Recovery" within a Control stating "Ensure there is a <b>Disaster Recovery (H)</b> Policy (M) and that it identifies Roles and Responsibilities (L)."
   - Medium-Level Topic (Object): ex. "Policy" within a Control stating "Ensure there is a Disaster Recovery (H) <b>Policy (M)</b> and that it identifies Roles and Responsibilities (L)."
   - Low-Level Topic (Target): ex. "Roles and Responsibilities" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) and that it identifies <b>Roles and Responsibilities (L)</b>."
 
@@ -85,7 +85,7 @@ The OCCM has been designed with the principles of easy contribution, accelerated
 ## From the Creator / Project Leader
 
 "The capabilities of the OWASP Cyber Controls Matrix are something I have wanted to see my entire career. It is my honor to create it and give it to the entire Cybersecurity industry as an open-source OWASP project. Per the license, I encourage commercial products, non-commercial products, and cyber practitioners to fully incorporate it and contribute back to the project. First and foremost, the OCCM is a community driven effort. All submissions, ideas, promotion, and discourse are greatly appreciated. Thank you for your support!"
-<br>-- Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) [(Email)](mailto://eric.bragger@owasp.org)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;-- Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) [(Email)](mailto://eric.bragger@owasp.org)
 
 ## Contributions
 
