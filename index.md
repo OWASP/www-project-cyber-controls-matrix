@@ -40,7 +40,7 @@ Supercharging Cybersecurity knowledge, the OCCM points cyber analysts to the gui
 
 #### Cyber Taxonomy
 
-There is a multi-level cyber taxonomy at the core of the OCCM, to which all the control relationships are normalized. As a result, the mappings are more consistent, objective, organized and reliable. No more vague groupings of controls or mysterious "black box" mappings. In the OCCM, it is clear how and why each control is related. Furthermore, this multi-level taxonomy facilitates easy research of cyber topics and objectives across all standards.
+There is a multi-level cyber taxonomy at the core of the OCCM, to which all the control relationships are normalized. As a result, the mappings are more consistent, objective, organized, and reliable. No more vague groupings of controls or mysterious "black box" mappings. In the OCCM, it is clear how and why each control is related. Furthermore, this multi-level taxonomy facilitates easy research of cyber topics and objectives across all standards.
 
 #### Levels of Detail
 
