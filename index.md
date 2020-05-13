@@ -41,9 +41,25 @@ Supercharging Cybersecurity knowledge, the OCCM points cyber analysts to the gui
 
 There is a multi-level cyber taxonomy at the core of the OCCM, to which all the control relationships are normalized. As a result, the mappings are more consistent, objective, organized and reliable. No more vague groupings of controls or mysterious "black box" mappings. In the OCCM, it is clear how and why each control is related. Furthermore, this multi-level taxonomy facilitates easy research of cyber topics and objectives across all standards.
 
+#### Levels of Detail
+
+Controls in the OCCM are included at all available levels, and each of those controls is normalized to three separate levels of detail in the Cyber Taxonomy. Audit checks are also supported. This ensures a comprehensive mapping that dives deep into the control set / framework, versus the surface mappings common in the industry that only indicate top-level controls.
+
+* Control Levels
+  0. Control Families / Headings
+  1. Top-Level Controls
+  2. Sub-Controls
+  3. Enhancements
+  4. etc.
+
+* Levels of Detail
+  - High-Level Topic (Area): ex. "Disaster Recovery" within a Control stating "Ensure there is a <b>Disaster Recovery (H)</b> Policy (M) and that it identifies Roles and Responsibilities (L)."
+  - Medium-Level Topic (Object): ex. "Policy" within a Control stating "Ensure there is a Disaster Recovery (H) <b>Policy (M)</b> and that it identifies Roles and Responsibilities (L)."
+  - Low-Level Topic (Target): ex. "Roles and Responsibilities" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) and that it identifies <b>Roles and Responsibilities (L)</b>."
+
 #### Relevance
 
-Control relationships in the OCCM are directly mapped and viewable at three separate levels of detail, resolving the fundamental issues of too-strict or too-loose mapping. Each individual control in the OCCM relates directly to other controls ("one-to-many"), instead of the common industry practice of grouping controls together ("many-to-many"). This common practice results in a handshake problem, where every control in group "A" is mapped to every other control in group "B".
+Control relationships in the OCCM are directly mapped and viewable at the three separate levels of detail, resolving the fundamental issues of too-strict or too-loose mapping. Each individual control in the OCCM relates directly to other controls ("one-to-many"), instead of the common industry practice of grouping controls together ("many-to-many"). This common practice results in a handshake problem, where every control in group "A" is mapped to every other control in group "B".
 
 For example, the group mapping "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5" generates 25 total relationships! This requires analysis of 5 relationships per "A" control, some of which may have little to no direct relevance.
 
