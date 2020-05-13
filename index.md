@@ -76,9 +76,9 @@ Control relationships in the OCCM are directly mapped and viewable at the three 
 For example, the group mapping "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5" generates 25 total relationships! This requires analysis of 5 relationships per "A" control, some of which may have little to no direct relevance.
 
 Using the OCCM, this example can be greatly simplified and reduced to...
-- High Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1, B2, B3" &nbsp;&nbsp; \[3 relationships]
--	Medium Level Mapping &nbsp;&nbsp; "A1 -> B1, B2" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[2 relationships]
--	Low Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[1 relationship]
+- High Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1, B2, B3" &nbsp;&nbsp; \[3 relationships]
+-	Medium Level Mapping &nbsp;&nbsp; "A1 -> B1, B2" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[2 relationships]
+-	Low Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[1 relationship]
 
 #### Growth
 
