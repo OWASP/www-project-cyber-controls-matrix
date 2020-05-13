@@ -6,6 +6,8 @@ order: 3
 tags: OCCM
 ---
 
+<p><h2 style="text-align:center"><a href="https://eepurl.com/g3kJBP">Click here to be notified of OCCM news and releases !</a></h2></p>
+
 ## News
 
 Date | Event
