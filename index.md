@@ -45,18 +45,24 @@ There is a multi-level cyber taxonomy at the core of the OCCM, to which all the 
 
 Controls in the OCCM are included at all available levels and each of those controls is normalized to three separate levels of detail in the Cyber Taxonomy. Audit checks are also supported. This ensures a comprehensive mapping that dives deep into the control set / framework, versus the surface mappings common in the industry that only indicate top-level controls.
 
+Every Control entry in the OCCM is given one Control Level and is assigned one or more groups of High-Level, Medium-Level, and Low-Level Topics in the Cyber Taxonomy.
+
 * Control Levels for Each Control
   - Control Families / Headings
   - Top-Level Controls
   - Sub-Controls
   - Enhancements
   - etc.
+<br>
 
 * Levels of Detail for Each Control
-  - High-Level Topic (Area)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex. "Disaster Recovery" within a Control stating "Ensure there is a <b>Disaster Recovery (H)</b> Policy (M) and that it identifies Roles and Responsibilities (L)."
-  - Medium-Level Topic (Object): ex. "Policy" within a Control stating "Ensure there is a Disaster Recovery (H) <b>Policy (M)</b> and that it identifies Roles and Responsibilities (L)."
-  - Low-Level Topic (Target): ex. "Roles and Responsibilities" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) and that it identifies <b>Roles and Responsibilities (L)</b>."
+  - High-Level Topics (Area)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex. "Disaster Recovery" within a Control stating "Ensure there is a <b>Disaster Recovery (H)</b> Policy (M) that identifies Roles and Responsibilities (L) and Mission-Critical Environments (L)."
+  - Medium-Level Topics (Object)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex. "Policy" within a Control stating "Ensure there is a Disaster Recovery (H) <b>Policy (M)</b> that identifies Roles and Responsibilities (L) and Mission-Critical Environments (L)."
+  - Low-Level Topics (Target)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex. "Roles and Responsibilities" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) that identifies <b>Roles and Responsibilities (L)</b> and Mission-Critical Environments (L)."
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex. "Mission-Critical Environments" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) that identifies Roles and Responsibilities (L) and <b>Mission-Critical Environments (L)</b>."
 
 #### Relevance
 
