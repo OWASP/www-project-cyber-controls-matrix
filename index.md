@@ -5,7 +5,7 @@ title: OWASP Cyber Controls Matrix (OCCM)
 tags: map mapping controls control framework frameworks standards regulations laws guidance practice cyber security cybersecurity OCCM GRC governance risk compliance compliant audit 3PAO matrix related relations relationships
 level: 2
 type: documentation
-pitch: Solve the problem of multiple cyber standards by consolidating them, reducing duration and effort by months!
+pitch: Solve the problem of multiple cyber standards by consolidating them, reducing timelines and effort by months!
 
 ---
 
