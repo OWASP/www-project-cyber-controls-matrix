@@ -23,7 +23,7 @@ pitch: Solve the problem of multiple cyber standards by consolidating them, redu
 ![Release](https://img.shields.io/badge/release-tbd-blue)
 [![License](https://img.shields.io/badge/license-CC--BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
-<center><b>[Click here to be notified of OCCM news and releases!](http://eepurl.com/g3kJBP)</b></center>
+## [Click here to be notified of OCCM news and releases!](http://eepurl.com/g3kJBP)
 
 <p class="callout-mono left">Solve the problem of multiple cyber standards by consolidating them, reducing duration and effort by months. The OCCM does this and much more!</p>
 
