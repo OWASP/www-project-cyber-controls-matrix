@@ -125,7 +125,7 @@ The OWASP Foundation, Inc. is a non-profit 501(c)3 charitable organization. Some
 
 #### Required Attribution
 
-Per the open license, the following paragraphs must be included as attribution with any written / electronic distribution (excluding articles and discourse) or software distribution that incorporates any part or whole of the OWASP Cyber Controls Matrix (OCCM) content.
+Per the open license, the following paragraphs  must be included as attribution -- including the links in parenthesis, as functional or non-functional -- with any written / electronic distribution (excluding articles and discourse) or software distribution that incorporates any part or whole of the OWASP Cyber Controls Matrix (OCCM) or associated content.
 
 #### License
 
