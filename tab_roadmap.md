@@ -63,10 +63,10 @@ tags: OCCM
 <tr><td align="center"></td><td>Q4 2020</td><td>Control Set / Framework</td><td>ISO 27001 / ISO 27002</td></tr>
 <tr><td align="center"></td><td>Q4 2020</td><td>Control Set / Framework</td><td>ISO 27017</td></tr>
 <tr><td align="center"></td><td>Q4 2020</td><td>Control Set / Framework</td><td>ISO 27018</td></tr>
-<tr><td align="center"></td><td>Q1 2021</td><td>Control Set / Framework</td><td>NIST SP 800-53 rev. 4</td></tr>
+<tr><td align="center"></td><td>Q1 2021</td><td>Control Set / Framework</td><td>NIST SP 800-53 rev. 4 High + Privacy with FedRAMP High and DoD Cloud SRG IL5</td></tr>
 <tr><td align="center"></td><td>Q1 2021</td><td>Control Set / Framework</td><td>FedRAMP</td></tr>
 <tr><td align="center"></td><td>Q1 2021</td><td>Control Set / Framework</td><td>DoD Cloud SRG</td></tr>
-<tr><td align="center"></td><td>Q2 2021</td><td>Control Set / Framework</td><td>NIST SP 800-53 rev. 5 [if released]</td></tr>
+<tr><td align="center"></td><td>Q2 2021</td><td>Control Set / Framework</td><td>NIST SP 800-53 rev. 5 High [if released]</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>OWASP Software Assurance Maturity Model (SAMM)</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>SOC 2</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>GDPR</td></tr>
@@ -82,7 +82,6 @@ tags: OCCM
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>IRS Publication 1075</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>CJIS</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>[additional cyber compliance, legal, and regulatory controls]</td></tr>
-<tr><td align="center"></td><td>Future</td><td>Webpage</td><td>Project website</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Webpage</td><td>Translation into other languages</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Feature</td><td>Baselines and Profiles (i.e. automatically select controls to display)</td></tr>
 </tbody>
