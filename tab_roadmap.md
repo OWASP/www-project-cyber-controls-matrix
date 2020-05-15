@@ -91,7 +91,7 @@ tags: OCCM
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>COSO</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>COBIT</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>HIPAA HITECH Act</td></tr>
-<tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>HIPAA HITECH HITRUST CSF</td></tr>
+<tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>HIPAA HITRUST CSF</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>NERC CIP</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>ISA-99 (ANSI IACS)</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>MARS-E (ACA / Medicaid / CHIP)</td></tr>
