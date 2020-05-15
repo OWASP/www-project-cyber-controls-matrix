@@ -26,11 +26,11 @@ tags: OCCM
 
 * How can I help the project?
   - Glad you asked! Please start by [joining the OCCM mailing list](https://eepurl.com/g3kJBP) and answering the optional questions on that page.
-  - We'll eventually have content submission instructions and forms together, but our only priority now is getting the first release out the door.
+  - We'll eventually have content submission instructions and forms together, but our only priority right now is getting the first release out the door.
 
 * When will the first release of the OCCM occur and what will it include?
 
-  - Officially TBD, but planned before August. Please see the Roadmap tab for an evolving list of target content.
+  - Officially TBD, but planned before September. Please see the Roadmap tab for an evolving list of target content.
   - Please also [join the OCCM mailing list](https://eepurl.com/g3kJBP) to be notified of OCCM-specific news and releases.
   - The OCCM project launched on May 11, 2020. Core functionality is operational (schema and code for automated mapping). It just takes time to create the initial Cybersecurity Taxonomy and normalize hundreds of controls across the first control sets.
 
