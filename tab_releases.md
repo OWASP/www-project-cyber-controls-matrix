@@ -29,7 +29,7 @@ Core functionality is operational (schema and code for automated mapping).<br>
 <br>
 It just takes time to create the initial Cybersecurity Taxonomy and normalize hundreds of controls across the first control sets.<br>
 <br>
-### Releases
+## Releases
 
 Version | Date | Link | Comments
 ------- | ---- | ---- | --------
