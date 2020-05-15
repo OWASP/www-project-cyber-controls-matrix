@@ -24,24 +24,26 @@ tags: OCCM
 
 ## Frequently Asked Questions (FAQ)
 
-* How can I help the project?
+* **How can I help the project?**
+
   - Glad you asked! Please start by [joining the OCCM mailing list](https://eepurl.com/g3kJBP) and answering the optional questions on that page.
   - We'll eventually have content submission instructions and forms together, but our only priority right now is getting the first release out the door.
-
-* When will the first release of the OCCM occur and what will it include?
+<br>
+* **When will the first release of the OCCM occur and what will it include?**
 
   - Officially TBD, but planned before September. Please see the Roadmap tab for an evolving list of target content.
   - Please also [join the OCCM mailing list](https://eepurl.com/g3kJBP) to be notified of OCCM-specific news and releases.
   - The OCCM project launched on May 11, 2020. Core functionality is operational (schema and code for automated mapping). It just takes time to create the initial Cybersecurity Taxonomy and normalize hundreds of controls across the first control sets.
-
-* Will the OCCM map controls between \[Some-Control-Set] and \[Some-Other-Control-Set]
+<br>
+* **Will the OCCM map controls between \[Some-Control-Set] and \[Some-Other-Control-Set]**
 
   - Yes, as long as both Control Sets are in the OCCM. The OCCM maps all Controls Sets to every other Control Set.
   - Please see the Roadmap tab for an evolving list of target content.
-
-* Will the OCCM automate control selection, documentation, and other aspects of my program?
+<br>
+* **Will the OCCM automate control selection, documentation, and other aspects of my program?**
 
   - No. The OCCM is a documentation project driven by code and rich data. Its singular focus is to provide valuable information to assist in implementing and complying with cyber controls across multiple control sets / standards / frameworks.
   - However, we hope that all types of software will use and leverage the OCCM. The OCCM and its content is a gift to the cyber industry; freely licensed for commercial, non-commercial, and government use, with the only stipulation being required attribution.
 
-### Don't see your question answered here or elsewhere on the website? [Click here to email us about it.](mailto:occm@cybercontrolsmatrix.com?subject=OCCM Website FAQ)
+### Don't see your question answered here or elsewhere on the website?
+[Click here to email us about it.](mailto:occm@cybercontrolsmatrix.com?subject=OCCM Website FAQ)
