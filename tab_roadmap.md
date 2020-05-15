@@ -51,7 +51,7 @@ tags: OCCM
 <tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Sample Mappings</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Guidance for Contributors</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Contribution Forms</td></tr>
-<tr><td align="center"></td><td>Q2 2020</td><td>Docs</td><td>Instructions for Use (PDFs and PPTs)</td></tr>
+<tr><td align="center"></td><td>Q2 2020</td><td>Documentation</td><td>Instructions for Use (PDFs and PPTs)</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Instructions for Use (HTML)</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Control Set / Framework</td><td>OWASP Top 10</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Control Set / Framework</td><td>OWASP Proactive Controls (OPC)</td></tr>
