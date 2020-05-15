@@ -85,8 +85,9 @@ Using the OCCM, this example can be greatly simplified and reduced to...
 
 The OCCM has been designed with the principles of easy contribution, accelerated growth, and continuous improvement. Once a new control is added and normalized, it is automatically mapped to every other control across all standards. There is no longer a need for an analyst to search for a mapping between two different standards or create their own. Every standard in the OCCM is automatically mapped to every other standard, exponentially increasing its scope.
 
-## Industry Perspectives
 ***
+## Industry Perspectives
+
 <p class="callout-mono right small">"Complying with multiple cybersecurity frameworks is one of the top challenges we’ve heard from our Member organizations."<br>(Center for Internet Security, 3/2020)</p>
 
 <p class="callout-mono right small">"... multiple frameworks are often needed, but the task of managing them becomes almost impossible to implement."<br>(CSO Online, 7/2010)</p>
