@@ -55,7 +55,7 @@ tags: OCCM
 <tr><td align="center"></td><td>Q2 2020</td><td>Control Set / Framework</td><td>OWASP Mobile Top 10</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Control Set / Framework</td><td>NIST CSF</td></tr>
 <tr><td align="center"></td><td>Q3 2020</td><td>Feature</td><td>Statistics of Mappings</td></tr>
-<tr><td align="center"></td><td>Q3 2020</td><td>Feature</td><td>Support for Official and Third-Party Mappings</td></tr>
+<tr><td align="center"></td><td>Q3 2020</td><td>Feature</td><td>Support for Official and Third-Party Mappings (to reference against the OCCM mappings)</td></tr>
 <tr><td align="center"></td><td>Q3 2020</td><td>Control Set / Framework</td><td>CMMC</td></tr>
 <tr><td align="center"></td><td>Q3 2020</td><td>Control Set / Framework</td><td>NIST 800-171</td></tr>
 <tr><td align="center"></td><td>Q3 2020</td><td>Control Set / Framework</td><td>CIS Controls (Top 20 and Sub-Controls)</td></tr>
