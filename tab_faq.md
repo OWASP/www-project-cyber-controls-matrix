@@ -43,14 +43,14 @@ tags: OCCM
 
 * **Will the OCCM automate control selection, documentation, and other aspects of my program?**
 
-  - No. The OCCM is a documentation project driven by code and rich data. Its singular focus is to provide valuable information to assist in implementing and complying with cyber controls across multiple control sets / standards / frameworks.
+  - No. The OCCM is a documentation project driven by code and rich data. Its singular focus is to provide valuable information to assist in implementing and complying with cyber controls across multiple standards / control sets / frameworks.
   - However, we hope that all types of software will use and leverage the OCCM. The OCCM and its content is a gift to the cyber industry; freely licensed for commercial, non-commercial, and government use, with the only stipulation being required attribution.
 
 * **Why the name OWASP Cyber Controls Matrix (OCCM)?**
 
   - OWASP for the OWASP Foundation hosting and supporting the project.
   - Cyber because it represents both IT and Cybersecurity. While it is a common buzzword, "cyber" is a single word that represents both.
-  - Controls because these are the individual, measurable items within a Control Set / Framework.
+  - Controls because these are the individual, measurable items within a control set / framework.
   - Matrix because the output is a mapping table between every Control and every other Control. Even though arriving at that table requires a specific process, we did not want any distraction from that output by calling it (yet another) a Framework or Methodology.
   - Apologies to the CSA Cloud Controls Matrix (CSA CCM). We tried to avoid using CCM. We really did. At least we're OCCM.
 
