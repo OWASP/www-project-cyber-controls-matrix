@@ -81,7 +81,6 @@ tags: OCCM
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>CCPA</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>COPPA</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>FERPA</td></tr>
-<tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>PIPEDA Canada</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>ENISA (EU Cybersecurity Act)</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>CSA STAR</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>CIS AWS Foundations</td></tr>
