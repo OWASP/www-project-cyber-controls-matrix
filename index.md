@@ -25,8 +25,9 @@ pitch: Solve the problem of multiple cyber standards by consolidating them, redu
 
 <p><h2 style="text-align:center" target="_blank"><a href="https://eepurl.com/g3kJBP">Click here to be notified of OCCM news and releases !</a></h2></p>
 
-## Description
 ***
+## Description
+
 The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber controls across different controls sets and frameworks.
 <p class="callout-mono left">Solve the problem of multiple cyber standards by consolidating them, reducing timelines and effort by months. The OCCM does this and much more!</p>
 
@@ -94,36 +95,41 @@ The OCCM has been designed with the principles of easy contribution, accelerated
 
 <p class="callout-mono right small">"Pursuing multiple frameworks at the same time can overwhelm founders, especially without expert guidance."<br>(Laika, 1/2020)</p>
 
-## From the Creator / Project Leader
 ***
+## From the Creator / Project Leader
+
 "The capabilities of the OWASP Cyber Controls Matrix are something I have wanted to see my entire career. It is my honor to create it and give it to the entire Cybersecurity industry as an open-source OWASP project. Per the license, I encourage commercial products, non-commercial products, and cyber practitioners to fully incorporate it and contribute back to the project. First and foremost, the OCCM is a community driven effort. All submissions, ideas, promotion, and discourse are greatly appreciated. Thank you for your support!"
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) [(Email)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Website email)
 
-## Contributions
 ***
+## Contributions
+
 Contributions to the OCCM are welcome and appreciated.
 
 Contributors acknowledge that by contributing, copyright for all contributions will be transferred in full to the OWASP Foundation, Inc.
 Please see the "License, Copyright, Disclaimer, and Attribution" section for further details.
 
-## Core Team
 ***
+## Core Team
+
 Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) [(Email)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Website email) \[Creator / Project Leader]
 
-## Contributor List
 ***
+## Contributor List
 Your Name Here (Your URL Here)
 
-## Membership, Donations, and Sponsorship
 ***
+## Membership, Donations, and Sponsorship
+
 Please indicate the OWASP Cyber Controls Matrix in membership, donation, and sponsorship comments if you wish to specifically and directly support this project. General contributions to the OWASP Foundation will also support this project and others like it.
 
 All OWASP Projects are run and developed by volunteers and rely on [individual memberships](https://owasp.org/membership/), [personal donations](https://owasp.org/donate/), and [corporate memberships / sponsorships](https://owasp.org/supporters/) to continue their development. OWASP does not endorse or recommend commercial products or services, allowing our community to remain vendor neutral and focused on applying the collective wisdom of some of the best minds in Cybersecurity worldwide.
 
 The OWASP Foundation, Inc. is a non-profit 501(c)3 charitable organization. Some financial contributions may qualify for a tax deduction. Consult with a tax professional for details.
 
-## Legal
 ***
+## Legal
+
 For any questions regarding this section, send an email to: [occm@cybercontrolsmatrix.com](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Legal Question)
 
 #### Required Attribution
