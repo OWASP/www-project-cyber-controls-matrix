@@ -34,7 +34,7 @@ tags: OCCM
 
   - Officially TBD, but planned before September. Please see the Roadmap tab for an evolving list of target content.
   - Please also [join the OCCM mailing list](https://eepurl.com/g3kJBP) to be notified of OCCM-specific news and releases.
-  - The OCCM project launched on May 11, 2020. Core functionality is operational (schema and code for automated mapping). It just takes time to create the initial Cybersecurity Taxonomy and normalize hundreds of controls across the first control sets.
+  - The OCCM project launched on May 11, 2020. Core functionality is operational (schema and code for automated mapping). It just takes time to create the initial Cybersecurity Taxonomy and normalize hundreds of Controls across the first Control Sets.
 
 <br>
 * **Will the OCCM map controls between \[Some-Control-Set] and \[Some-Other-Control-Set]**?
