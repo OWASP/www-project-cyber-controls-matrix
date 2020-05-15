@@ -29,20 +29,17 @@ tags: OCCM
   - Glad you asked! Please start by [joining the OCCM mailing list](https://eepurl.com/g3kJBP) and answering the optional questions on that page.
   - We'll eventually have content submission instructions and forms together, but our only priority right now is getting the first release out the door.
 
-<br>
 * **When will the first release of the OCCM occur and what will it include?**
 
   - Officially TBD, but planned before September. Please see the Roadmap tab for an evolving list of target content.
   - Please also [join the OCCM mailing list](https://eepurl.com/g3kJBP) to be notified of OCCM-specific news and releases.
   - The OCCM project launched on May 11, 2020. Core functionality is operational (schema and code for automated mapping). It just takes time to create the initial Cybersecurity Taxonomy and normalize hundreds of Controls across the first Control Sets.
 
-<br>
 * **Will the OCCM map controls between \[Some-Control-Set] and \[Some-Other-Control-Set]**?
 
   - Yes, as long as both Control Sets are in the OCCM. The OCCM maps all Controls Sets to every other Control Set.
   - Please see the Roadmap tab for an evolving list of target content.
 
-<br>
 * **Will the OCCM automate control selection, documentation, and other aspects of my program?**
 
   - No. The OCCM is a documentation project driven by code and rich data. Its singular focus is to provide valuable information to assist in implementing and complying with cyber controls across multiple control sets / standards / frameworks.
@@ -50,4 +47,4 @@ tags: OCCM
 
 <br>
 ### Don't see your question answered here or elsewhere on the website?
-[Click here to email us about it.](mailto:occm@cybercontrolsmatrix.com?subject=OCCM Website FAQ)
+### [Click here to email us about it.](mailto:occm@cybercontrolsmatrix.com?subject=OCCM Website FAQ)
