@@ -45,6 +45,5 @@ tags: OCCM
   - No. The OCCM is a documentation project driven by code and rich data. Its singular focus is to provide valuable information to assist in implementing and complying with cyber controls across multiple control sets / standards / frameworks.
   - However, we hope that all types of software will use and leverage the OCCM. The OCCM and its content is a gift to the cyber industry; freely licensed for commercial, non-commercial, and government use, with the only stipulation being required attribution.
 
-<br>
 ### Don't see your question answered here or elsewhere on the website?
 ### [Click here to email us about it.](mailto:occm@cybercontrolsmatrix.com?subject=OCCM Website FAQ)
