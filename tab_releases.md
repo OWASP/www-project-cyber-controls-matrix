@@ -21,6 +21,7 @@ tags: OCCM
 [![License](https://img.shields.io/badge/license-CC--BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
 <p><h2 style="text-align:center" target="_blank"><a href="https://eepurl.com/g3kJBP">Click here to be notified of OCCM news and releases !</a></h2><br></p>
+***
 
 ## The OCCM is currently in pre-release.
 ## Please see the Roadmap tab for an intended release schedule.
