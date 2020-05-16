@@ -40,7 +40,8 @@ tags: OCCM
 * **Will the OCCM map controls between \[Some-Control-Set] and \[Some-Other-Control-Set]**?
 
   - Yes, as long as both Control Sets are in the OCCM.
-  - The OCCM automatically maps all Controls Sets to every other Control Set. That's the power of normalization.
+  - The OCCM automatically maps all Controls Sets to every other Control Set.
+  - That's the power of normalizing each Control to the OCCM Cyber Taxonomy.
   - Please see the Roadmap tab for an evolving list of forthcoming Control Sets.
 
 * **Will the OCCM automate control selection, documentation, and other aspects of my program?**
