@@ -32,14 +32,16 @@ tags: OCCM
 
 * **When will the first release of the OCCM occur and what will it include?**
 
-  - Officially TBD, but planned before September. Please see the Roadmap tab for an evolving list of target content.
+  - Officially TBD, but planned before September.
+  - Please see the Roadmap tab for an evolving list of target content.
   - Please also [join the OCCM mailing list](https://eepurl.com/g3kJBP) to be notified of OCCM-specific news and releases.
   - The OCCM project launched on May 11, 2020. Core functionality is operational (schema and code for automated mapping). It just takes time to create the initial Cybersecurity Taxonomy and normalize hundreds of Controls across the first Control Sets.
 
 * **Will the OCCM map controls between \[Some-Control-Set] and \[Some-Other-Control-Set]**?
 
-  - Yes, as long as both Control Sets are in the OCCM. The OCCM maps all Controls Sets to every other Control Set.
-  - Please see the Roadmap tab for an evolving list of target content.
+  - Yes, as long as both Control Sets are in the OCCM.
+  - The OCCM automatically maps all Controls Sets to every other Control Set. That's the power of normalization.
+  - Please see the Roadmap tab for an evolving list of forthcoming Control Sets.
 
 * **Will the OCCM automate control selection, documentation, and other aspects of my program?**
 
