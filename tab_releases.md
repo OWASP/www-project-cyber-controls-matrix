@@ -16,9 +16,9 @@ tags: OCCM
   gtag('config', 'UA-153589924-2');
 </script>
 
-![OWASP Incubator Project](https://img.shields.io/badge/OWASP-Incubator%20Project-blue)
-![Release](https://img.shields.io/badge/release-tbd-blue)
-[![License](https://img.shields.io/badge/license-CC--BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
+![OWASP Incubator Project](/assets/images/OWASP-Incubator_Project-blue.svg)
+![Release](/assets/images/release-tbd-blue.svg)
+[![License](/assets/images/license-CC--BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 <p><h2 style="text-align:center" target="_blank"><a href="https://eepurl.com/g3kJBP">Click here to be notified of OCCM news and releases !</a></h2></p>
 
