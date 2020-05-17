@@ -44,9 +44,9 @@ tags: OCCM
 <tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Webpage</td><td>Domain and Email Configuration</td></tr>
 <tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Webpage</td><td>Mailing List for News / Releases with Survey</td></tr>
 <tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Webpage</td><td>Frequently Asked Questions (FAQ) tab</td></tr>
+<tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Webpage</td><td>Project Logo</td></tr>
 <tr><td align="center">O</td><td>Q2 2020</td><td>Webpage</td><td>Key Benefits and Key Features tabs</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Illustrations for Key Benefits and Key Features</td></tr>
-<tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Project Logos</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Normalization</td><td>Pre-populate Cyber Taxonomy per NIST SP 800-53r5 Draft, CIS, OWASP, and other sources</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Sample Mappings</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Guidance for Contributors</td></tr>
