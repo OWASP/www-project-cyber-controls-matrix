@@ -131,7 +131,11 @@ The OWASP Foundation, Inc. is a non-profit 501(c)3 charitable organization. Some
 ***
 ## Legal
 
-For any questions regarding this section, send an email to: [occm@cybercontrolsmatrix.com](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Legal Question)
+For any questions regarding this section, send an email to: [occm@cybercontrolsmatrix.com](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Legal Questions)
+
+#### Image Use
+
+Images created or taken from the OWASP Cyber Controls Matrix (OCCM), OCCM content, and this website may be used if the following attribution is given beneath the image or in the image caption: "Image credit https://cybercontrolsmatrix.com". If the image contains content that has been modified (excluding size, color, positioning, and formatting changes) the following attribution must be given instead: "Adapted from https://cybercontrolsmatrix.com".
 
 #### Required Attribution
 
