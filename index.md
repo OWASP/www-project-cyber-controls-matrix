@@ -139,11 +139,13 @@ For any questions regarding this section, send an email to: [occm@cybercontrolsm
 
 #### Image Use
 
-Images created or taken from the OWASP Cyber Controls Matrix (OCCM), OCCM content, and this website may be used if the following attribution is given beneath the image or in the image caption: "Image credit https://cybercontrolsmatrix.com". If the image contains content that has been modified (excluding size, color, positioning, and formatting changes) the following attribution must be given instead: "Adapted from https://cybercontrolsmatrix.com".
+Images created or taken from the OWASP Cyber Controls Matrix (OCCM), OCCM content, and this website may be used if the following attribution is given beneath the image or in the image caption: "Image credit https://cybercontrolsmatrix.com". If the image content has been modified (excluding size, color, positioning, and formatting changes) or added to other content, the following attribution must be given instead: "Adapted from https://cybercontrolsmatrix.com".
 
 #### Required Attribution
 
 Per the open license, the following License, Copyright & Trademarks, and Disclaimer & Limitations paragraphs must be included as full attribution -- including the links in parenthesis, as functional or non-functional -- with (excluding articles and discourse), but not limited to: any written / electronic distribution, creation, content, output, or product; documentation; repository; webpage; software; or any other distribution, creation, content, output, or product that incorporates any part or whole of the OWASP Cyber Controls Matrix (OCCM) or associated content.
+
+Image use is subject to the license and required attribution; however, it has specific attribution requirements listed in the "Image Use" section.
 
 Partial exception is made for individual (non-commercial, non-organizational) online postings and blog entries, whose attribution must at minimum make mention of the "OWASP Cyber Controls Matrix (OCCM)". Mention of the website "https://cybercontrolsmatrix.com", the creator "Eric Bragger", and any other core team members is highly encouraged and appreciated.
 
