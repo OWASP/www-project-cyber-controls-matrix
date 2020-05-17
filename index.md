@@ -19,9 +19,9 @@ pitch: Solve the problem of multiple cyber standards by consolidating them, redu
   gtag('config', 'UA-153589924-2');
 </script>
 
-![OWASP Incubator Project](/assets/images/OWASP-Incubator%20Project-blue)
-![Release](/assets/images/release-tbd-blue)
-[![License](/assets/images/license-CC--BY%204.0-blue)](https://creativecommons.org/licenses/by/4.0/)
+![OWASP Incubator Project](/assets/images/OWASP-Incubator%20Project-blue.svg)
+![Release](/assets/images/release-tbd-blue.svg)
+[![License](/assets/images/license-CC--BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 <p><h2 style="text-align:center" target="_blank"><a href="https://eepurl.com/g3kJBP">Click here to be notified of OCCM news and releases !</a></h2></p>
 
