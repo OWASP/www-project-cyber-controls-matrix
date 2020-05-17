@@ -26,6 +26,8 @@ pitch: Solve the problem of multiple cyber standards by consolidating them, redu
 <p><h2 style="text-align:center" target="_blank"><a href="https://eepurl.com/g3kJBP">Click here to be notified of OCCM news and releases !</a></h2></p>
 
 ***
+![OCCM Logo Banner](/assets/images/OCCM-logo-1000x348.png)
+***
 ## Description
 
 The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber controls across different controls sets and frameworks.
