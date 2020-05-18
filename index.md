@@ -100,7 +100,7 @@ The OCCM has been designed with the principles of easy contribution, accelerated
 
 <p class="callout-mono right small">"Pursuing multiple frameworks at the same time can overwhelm founders, especially without expert guidance."<br>(Laika, 1/2020)</p>
 
-<p class="callout-mono right small">"Between 2010 and 2020, hundreds of new cyber regulations, rules, or standards were introduced. This explosion of interest in cybersecurity from regulators has required nearly 98% of companies to comply with two or more cyber compliance standards, while nearly 70% are subject to compliance with more than five." (Coalfire, 5/2020)</p>
+<p class="callout-mono right small">"Between 2010 and 2020, hundreds of new cyber regulations, rules, or standards were introduced. This explosion of interest in cybersecurity from regulators has required nearly 98% of companies to comply with two or more cyber compliance standards, while nearly 70% are subject to compliance with more than five."<br>(Coalfire, 5/2020)</p>
 
 ***
 ## From the Creator / Project Leader
