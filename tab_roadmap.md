@@ -75,6 +75,7 @@ tags: OCCM
 <tr><td align="center"></td><td>Q1 2021</td><td>Control Set / Framework</td><td>DoD Cloud SRG</td></tr>
 <tr><td align="center"></td><td>Q2 2021</td><td>Control Set / Framework</td><td>NIST SP 800-53 rev. 5 High [when released]</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>OWASP Software Assurance Maturity Model (SAMM)</td></tr>
+<tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>NIST SP 800-137A</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>CISQ</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>ITAR</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>PCI DSS</td></tr>
