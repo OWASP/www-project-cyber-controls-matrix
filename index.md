@@ -153,7 +153,7 @@ Partial exception is made for commercial articles, white papers, documentation, 
 
 #### License
 
-The OWASP Cyber Controls Matrix (OCCM) is licensed under a [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial and government, with attribution. Additional license terms and conditions, such as indemnification, are detailed within the Required Attribution text that must be provided with use or distribution of the OCCM.
+The OWASP Cyber Controls Matrix (OCCM) is licensed under a [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial and government, with attribution. Additional license terms and conditions, such as indemnification, are detailed within the following Required Attribution text that must be provided with use or distribution of the OCCM.
 
 #### Copyright & Trademarks
 
