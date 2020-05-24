@@ -50,6 +50,30 @@ tags: OCCM
   - No. The OCCM is a documentation project driven by code and rich data. Its singular focus is to provide valuable information to assist in implementing and complying with cyber controls across multiple standards / control sets / frameworks.
   - However, we hope that all types of software will use and leverage the OCCM. The OCCM and its content is a gift to the cyber industry; freely licensed for commercial, non-commercial, and government use, with the only stipulation being required attribution.
 
+* **How is the OCCM different from the Secure Controls Framework (SCF)?**
+
+  - The approach of the OCCM is working directly on each control set while leveraging the relevant controls in other control sets.
+  - The approach of the SCF is implementing and documenting SCF controls (the meta-framework) as a baseline for compliance with other control sets. In other words, the SCF attempts to provide a universal control set with good coverage of other control sets. Of course, the SCF is unable to capture every specific requirement and guidance in those control sets, which is where control mapping from the SCF to the target controls is needed.
+  - Whether using the OCCM or a meta-framework like the SCF, working directly on a control set is currently the only way to ensure all requirements are fully met and documented for audit and certification.
+  - The SCF is an excellent project and contribution to the industry, just very different in use than the OCCM.
+
+<center>
+<table style="max-width:100%">
+<thead>
+  <tr>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Feature</th>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">OCCM</th>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">SCF</th>
+  </tr>
+</thead>
+<tbody>
+<tr><td align="center"></td><td></td></tr>
+</tbody>
+</table>
+</center>
+
+<br>
+
 * **Why the name OWASP Cyber Controls Matrix (OCCM)?**
 
   - OWASP for the OWASP Foundation hosting and supporting the project.
