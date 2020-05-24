@@ -57,20 +57,23 @@ tags: OCCM
   - Whether using the OCCM or a meta-framework like the SCF, working directly on a control set is currently the only way to ensure all requirements are fully met and documented for audit and certification.
   - The SCF is an excellent project and contribution to the industry, just very different in use than the OCCM.
 
-<center>
-<table style="max-width:100%">
+<table align="center" style="max-width:100%">
 <thead>
   <tr>
-    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Feature</th>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center"></th>
     <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">OCCM</th>
     <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">SCF</th>
   </tr>
 </thead>
 <tbody>
-<tr><td align="center"></td><td></td></tr>
+<tr><td align="center"></td><td></td><td></td></tr>
+<tr><td align="center"></td><td></td><td></td></tr>
+<tr><td align="center"></td><td></td><td></td></tr>
+<tr><td align="center"></td><td></td><td></td></tr>
+<tr><td align="center"></td><td></td><td></td></tr>
+<tr><td align="center"></td><td></td><td></td></tr>
 </tbody>
 </table>
-</center>
 
 <br>
 
