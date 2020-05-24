@@ -107,7 +107,7 @@ tags: OCCM
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>ISM Australia</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>NZISM New Zealand</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>CERT-RMM</td></tr>
-<tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>[additional cyber compliance, legal, and regulatory controls]</td></tr>
+<tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>[additional cyber compliance, best practice, legal, and regulatory controls]</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Webpage</td><td>Translation into other languages</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Feature</td><td>Baselines and Profiles (i.e. automatically select controls to display)</td></tr>
 </tbody>
