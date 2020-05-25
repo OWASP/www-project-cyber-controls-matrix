@@ -70,7 +70,7 @@ tags: OCCM
 </thead>
 <tbody>
   <tr><td style="text-align:right"><b>Design</b></td><td>Simple Matrix</td><td>Meta-Framework</td></tr>
-  <tr><td style="text-align:right"><b>Separate Control Set</b></td><td>No</td><td>Yes, SCF Controls are mandatory</td></tr>
+  <tr><td style="text-align:right"><b>Separate Control Set</b></td><td>No</td><td>Yes, SCF Controls are required</td></tr>
   <tr><td style="text-align:right"><b>Approach</b></td><td>Control Set A + Control Set B, etc.</td><td>SCF Controls + Control Set A + Control Set B, etc.</td></tr>
   <tr><td style="text-align:right"><b>Mapping Result</b></td><td>Direct (i.e. NIST->ISO)</td><td>Indirect (i.e. NIST->SCF->ISO)</td></tr>
   <tr><td style="text-align:right"><b>Mapping Detail</b></td><td>3 Levels of Detail (High, Medium, Low)</td><td>1 Level of Detail</td></tr>
@@ -87,7 +87,7 @@ tags: OCCM
   - "Cyber" because it represents both IT and Cybersecurity. While it is a common buzzword, "cyber" is a single word that represents both.
   - "Controls" because these are the individual, measurable items within a control set / framework.
   - "Matrix" because the output is a mapping table between every Control and every other Control. Even though arriving at that table requires a specific process, we did not want any distraction from that output by calling it (yet another) a Framework or Methodology.
-  - Apologies to the CSA Cloud Controls Matrix (CSA CCM). We tried to avoid using CCM. We really did. At least we're OCCM.
+  - Apologies to the CSA Cloud Controls Matrix (CSA CCM). We tried to avoid using "CCM" in our acronym. We really did. At least we're OCCM.
 
 ### Don't see your question answered here or elsewhere on the website?
 **[Click here to email us about it.](mailto:occm@cybercontrolsmatrix.com?subject=OCCM Website FAQ)**
