@@ -70,7 +70,7 @@ tags: OCCM
 </thead>
 <tbody>
   <tr><td style="text-align:right"><b>Design</b></td><td>Simple Matrix</td><td>Meta-Framework</td></tr>
-  <tr><td style="text-align:right"><b>Separate Control Set</b></td><td>No</td><td>Yes, SCF Controls are required</td></tr>
+  <tr><td style="text-align:right"><b>Separate Control Set</b></td><td>No</td><td>Yes. SCF Controls are required</td></tr>
   <tr><td style="text-align:right"><b>Approach</b></td><td>Control Set A + Control Set B, etc.</td><td>SCF Controls + Control Set A + Control Set B, etc.</td></tr>
   <tr><td style="text-align:right"><b>Mapping Capability</b></td><td>Direct (i.e. NIST->ISO)</td><td>Indirect (i.e. NIST->SCF->ISO)</td></tr>
   <tr><td style="text-align:right"><b>Mapping Detail</b></td><td>3 Levels of Detail (High, Medium, Low)</td><td>1 Level of Detail</td></tr>
