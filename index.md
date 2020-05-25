@@ -171,6 +171,6 @@ The OCCM in part or whole (including, but not limited to: its content and capabi
 
 You agree to indemnify, defend, and hold harmless the OCCM, its copyright owners, its creator, any individuals associated with it, and any aspects of it from any and all claims, liabilities, and expenses (including attorney fees, court fees, process costs, fines, damages, and any other losses) arising out of your use of the OCCM, interaction with the OCCM, any individuals associated with the OCCM, and any aspects of the OCCM; with no expectations whatsoever and regardless of disclosures, claims, discoveries, process, suits, or proceedings.
 
-The [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) provides further important disclaimers, limitations, and legal text that also applies to the OCCM.
+The [Creative Commons Attribution 4.0 International (CC-BY 4.0) license](https://creativecommons.org/licenses/by/4.0/legalcode) provides further important disclaimers, limitations, and legal text that also applies to the OCCM.
 
 <br>
