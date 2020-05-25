@@ -54,10 +54,11 @@ tags: OCCM
 
   - The approach of the OCCM is working directly on each control set while leveraging the relevant controls in other control sets.
   - The approach of the SCF is implementing and documenting SCF controls (the meta-framework) as a baseline for compliance with other control sets. In other words, the SCF attempts to provide a universal control set with good coverage of other control sets. Of course, the SCF is unable to capture every specific requirement and guidance in those control sets, which is where control mapping from the SCF to the target controls is needed.
+  - The SCF license "No Derivatives" condition may hinder use in products and research, as no modification of the SCF controls can be distributed without being granted exception to the license.
   - Whether using the OCCM or a meta-framework like the SCF, working directly on a control set is currently the only way to ensure all requirements are fully met and documented for audit and certification.
   - The SCF is an excellent project and contribution to the industry, just very different in use than the OCCM.
 
-<table align="center" style="max-width:100%">
+<table align="center" style="font-size:70%;max-width:100%">
 <thead>
   <tr>
     <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center"></th>
@@ -66,12 +67,15 @@ tags: OCCM
   </tr>
 </thead>
 <tbody>
-<tr><td align="center"></td><td></td><td></td></tr>
-<tr><td align="center"></td><td></td><td></td></tr>
-<tr><td align="center"></td><td></td><td></td></tr>
-<tr><td align="center"></td><td></td><td></td></tr>
-<tr><td align="center"></td><td></td><td></td></tr>
-<tr><td align="center"></td><td></td><td></td></tr>
+  <tr><td><b>Design</b></td><td>Simple Matrix</td><td>Meta-Framework</td></tr>
+  <tr><td><b>Separate Control Set</b></td><td>No</td><td>Yes</td></tr>
+  <tr><td><b>Approach</b></td><td>Control Set A + Control Set B, etc.</td><td>SCF Controls + Control Set A + Control Set B, etc.</td></tr>
+  <tr><td><b>Mapping Between Standards</b></td><td>Direct (i.e. NIST->ISO)</td><td>Indirect (i.e. NIST->SCF->ISO or SCF->ISO)</td></tr>
+  <tr><td><b>Mapping Detail</b></td><td>3 Levels of Detail (High, Medium, Low)</td><td>1 Level of Detail</td></tr>
+  <tr><td><b>Mapping Reason</b></td><td>Specified via OCCM Cyber Taxonomy</td><td>Unspecified</td></tr>
+  <tr><td><b>Maturity Model</b></td><td>Unspecified [control dependent]</td><td>SCF Controls [meta-framework dependent]</td></tr>
+  <tr><td><b>License</b></td><td>Free. CC-BY 4.0</td><td>Free. CC-BY-ND 4.0 (No Derivatives)</td></tr>
+  <tr><td><b>Parent Organization</b></td><td>OWASP Foundation, Inc. [501(c)(3) non-profit]</td><td>Secure Controls Framework Council, LLC</td></tr>
 </tbody>
 </table>
 
@@ -86,4 +90,4 @@ tags: OCCM
   - Apologies to the CSA Cloud Controls Matrix (CSA CCM). We tried to avoid using CCM. We really did. At least we're OCCM.
 
 ### Don't see your question answered here or elsewhere on the website?
-### [Click here to email us about it.](mailto:occm@cybercontrolsmatrix.com?subject=OCCM Website FAQ)
+**[Click here to email us about it.](mailto:occm@cybercontrolsmatrix.com?subject=OCCM Website FAQ)
