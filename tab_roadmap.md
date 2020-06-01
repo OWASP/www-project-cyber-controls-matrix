@@ -34,10 +34,10 @@ tags: OCCM
 <table style="font-size:80%;max-width:100%">
 <thead>
   <tr>
-    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Status</th>
-    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Planned</th>
-    <th style="padding:10px;vertical-align:top;text-align:left">Type</th>
-    <th style="padding:10px;vertical-align:top;text-align:left">Detail</th>
+    <th style="white-space:nowrap;vertical-align:top;text-align:center">Status</th>
+    <th style="white-space:nowrap;vertical-align:top;text-align:center">Planned</th>
+    <th style="vertical-align:top;text-align:left">Type</th>
+    <th style="vertical-align:top;text-align:left">Detail</th>
   </tr>
 </thead>
 <tbody>
