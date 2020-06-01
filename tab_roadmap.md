@@ -31,13 +31,13 @@ tags: OCCM
 &nbsp;&nbsp;&nbsp;&nbsp; O = Ongoing
 <br><br>
 
-<table style="max-width:100%">
+<table style="font-size:80%;max-width:100%">
 <thead>
   <tr>
-    <th style="font-size=90%;white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Status</th>
-    <th style="font-size=90%;white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Planned</th>
-    <th style="font-size=90%;white-space:nowrap;padding:10px;vertical-align:top;text-align:left">Type</th>
-    <th style="font-size=90%;white-space:nowrap;padding:10px;vertical-align:top;text-align:left">Detail</th>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Status</th>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Planned</th>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:left">Type</th>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:left">Detail</th>
   </tr>
 </thead>
 <tbody>
