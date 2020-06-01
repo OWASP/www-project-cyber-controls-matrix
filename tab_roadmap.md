@@ -36,7 +36,7 @@ tags: OCCM
   <tr>
     <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Status</th>
     <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Planned</th>
-    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:left">Type</th>
+    <th style="padding:10px;vertical-align:top;text-align:left">Type</th>
     <th style="padding:10px;vertical-align:top;text-align:left">Detail</th>
   </tr>
 </thead>
