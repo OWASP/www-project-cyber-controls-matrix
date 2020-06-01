@@ -56,7 +56,7 @@ tags: OCCM
 <tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Instructions for Use (HTML)</td></tr>
 <tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Reference Material</td><td>OCCM Control Set: NIST SP 800-53r4</td></tr>
   <tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Reference Material</td><td>OCCM Control Set: NIST SP 800-53r5 Final Public Draft</td></tr>
-<tr><td align="center"></td><td>Q2 2020</td><td>Control Set / Framework</td><td>OWASP Top 10</td></tr>
+<tr><td align="center">O</td><td>Q2 2020</td><td>Control Set / Framework</td><td>OWASP Top 10</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Control Set / Framework</td><td>OWASP Proactive Controls (OPC)</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Control Set / Framework</td><td>OWASP Mobile Top 10</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Control Set / Framework</td><td>NIST CSF</td></tr>
