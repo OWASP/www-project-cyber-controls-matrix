@@ -87,10 +87,10 @@ tags: OCCM
 * **Why the name OWASP Cyber Controls Matrix (OCCM)?**
 
   - "OWASP" for the OWASP Foundation hosting and supporting the project.
-  - "Cyber" because it represents both IT and Cybersecurity. While it is a common buzzword, "cyber" is a single word that represents both.
+  - "Cyber" because it represents both IT and Cybersecurity. While it is a common buzzword, "cyber" is the only word that represents both.
   - "Controls" because these are the individual, measurable items within a control set / framework.
-  - "Matrix" because the output is a mapping table between every Control and every other Control. Even though arriving at that table requires a specific process, we did not want any distraction from that output by calling it (yet another) a Framework or Methodology.
-  - Apologies to the CSA Cloud Controls Matrix (CSA CCM). We tried to avoid using "CCM" in our acronym. We really did. At least we're OCCM.
+  - "Matrix" because the OCCM generates a mapping table between every Control and every other Control. Even though arriving at that table requires a specific process, we did not want any distraction from what OCCM generates by calling it (yet another) a Framework or Methodology.
+  - Apologies to the CSA Cloud Controls Matrix (CSA CCM). We tried to avoid using "CCM" in our acronym. We really did. The reasons above were too compelling. At least we're "OCCM".
 
 ### Don't see your question answered here or elsewhere on the website?
 **[Click here to email us about it.](mailto:occm@cybercontrolsmatrix.com?subject=OCCM Website FAQ)**
