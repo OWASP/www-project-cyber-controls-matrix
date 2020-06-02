@@ -113,8 +113,7 @@ The OCCM has been designed with the principles of easy contribution, accelerated
 
 Contributions to the OCCM are welcome and appreciated.
 
-Contributors acknowledge that by contributing, copyright for all contributions will be transferred in full to the OWASP Foundation, Inc.
-Please see the "License, Copyright, Disclaimer, and Attribution" section for further details.
+Contributors acknowledge that by contributing, copyright for all contributions will be transferred in full to the OWASP Foundation, Inc, the OCCM Creator, and the OCCM Project Leader. Please see the Legal section for further details.
 
 ***
 ## Core Team
