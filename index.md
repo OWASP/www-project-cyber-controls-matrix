@@ -20,7 +20,7 @@ pitch: Solve the problem of multiple cyber standards by consolidating them, redu
 </script>
 
 ![OWASP Incubator Project](https://owasp.org/www-project-cyber-controls-matrix/assets/images/OWASP-Incubator_Project-blue.svg)
-![Release](https://owasp.org/www-project-cyber-controls-matrix/assets/images/release-tbd-blue.svg)
+[![Release](/assets/images/release-tbd-blue.svg)](https://owasp.org/www-project-cyber-controls-matrix/#div-releases)
 [![License](https://owasp.org/www-project-cyber-controls-matrix/assets/images/license-CC--BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ***
