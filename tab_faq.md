@@ -55,12 +55,12 @@ tags: OCCM
 
 * **How is the OCCM different from the Secure Controls Framework (SCF)?**
 
-  - The approach of the OCCM is working directly on each control set while leveraging the relevant controls in other control sets.
-  - The approach of the SCF is implementing and documenting SCF controls (the meta-framework) as a baseline for compliance with other control sets. In other words, the SCF attempts to provide a universal control set with good coverage of other control sets. Of course, the SCF is unable to capture every specific requirement and guidance in those control sets, which is where control mapping from the SCF to the target controls is needed.
-  - Whether using the OCCM or a meta-framework like the SCF, working directly on a control set is currently the only way to ensure all requirements are fully met and documented for audit and certification.
-  - The OCCM provides transparency via the OCCM Cyber Taxonomy on why a specific control has been mapped at each level of detail (High, Medium, and Low); whereas the SCF mapping reason can only be inferred by analyzing the content of the SCF control and the mapped control.
-  - The OCCM directly maps from one Control Set to all others (i.e. NIST->ISO). The SCM indirectly maps between Control Sets (i.e. NIST->SCF->ISO), except where only SCF controls are being mapped (i.e. SCF->ISO).
-  - The SCF license "No Derivatives" condition may hinder use in products and research, as no modification of the SCF controls can be distributed without being granted exception to the license.
+  - The approach of the OCCM is implementing and documenting the target control set while leveraging information from relevant controls in other control sets.
+  - The approach of the SCF is implementing and documenting SCF controls (the meta-framework) as a baseline for compliance with other control sets. In other words, the SCF attempts to provide a universal control set with good coverage of other control sets. Of course, the SCF is unable to capture every specific requirement and guidance in those control sets, which is where control mapping from the SCF controls to the target controls is needed and provided.
+  - Whether using the OCCM or a meta-framework like the SCF, working directly on a control set is currently the only way to ensure all requirements are fully met for audit and certification.
+  - The OCCM provides transparency via the OCCM Cyber Taxonomy on why a specific control has been mapped at each level of detail (High, Medium, and Low); whereas the SCF mapping reason can only be inferred by analyzing the content of the SCF control and the SCF-provided mapping for that control.
+  - The OCCM directly maps from one Control Set to all others (i.e. NIST->ISO). The SCM indirectly maps between Control Sets (i.e. NIST->SCF->ISO), except in the case that only SCF controls are being mapped (i.e. SCF->ISO).
+  - The SCF license "No Derivatives" condition may hinder use in products and research, as no modification of the SCF controls can be distributed without being granted exception to the license. The OCCM license has no such hindrance. Both licenses require attribution.
   - The SCF is an excellent project and contribution to the industry, just very different in content and use than the OCCM.
 
 <table align="center" style="font-size:70%;max-width:100%">
