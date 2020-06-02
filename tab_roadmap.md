@@ -27,7 +27,7 @@ tags: OCCM
 ## Project Roadmap
 
 <p style="font-size:80%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X = Done
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X = Done
 &nbsp;&nbsp;&nbsp;&nbsp; O = Ongoing
 </p>
 
