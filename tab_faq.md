@@ -51,7 +51,7 @@ tags: OCCM
 * **Will the OCCM automate control selection, documentation, and other aspects of my program?**
 
   - No. The OCCM is a documentation project driven by code and rich data. Its singular focus is to provide valuable information to assist in implementing and complying with cyber controls across multiple standards / control sets / frameworks.
-  - However, we hope that all types of software will use and leverage the OCCM. The OCCM and its content is a gift to the cyber industry; freely licensed for commercial, non-commercial, and government use, with the only stipulation being required attribution.
+  - However, we hope that all types of software will use and leverage the OCCM. The OCCM and its content is a gift to the cyber industry; freely licensed for commercial, non-commercial, and government use; with the only stipulation being required attribution.
 
 * **How is the OCCM different from the Secure Controls Framework (SCF)?**
 
