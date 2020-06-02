@@ -26,10 +26,10 @@ tags: OCCM
 ***
 ## Project Roadmap
 
-<br>
+<p style="font-size:80%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; X = Done
 &nbsp;&nbsp;&nbsp;&nbsp; O = Ongoing
-<br><br>
+</p>
 
 <table style="font-size:80%;max-width:100%">
 <thead>
