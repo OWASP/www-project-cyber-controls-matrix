@@ -60,17 +60,16 @@ Every Control entry in the OCCM is given one Control Level and is assigned one o
   - Sub-Controls
   - Enhancements
   - etc.
-
-
+<br>
 * Mapping Levels of Detail for Each Control
 
-  - High Level Topics (Area)
+  - High Level Topics (Areas)
     - ex. "Disaster Recovery" within a Control stating "Ensure there is a <b>Disaster Recovery (H)</b> Policy (M) that identifies Roles and Responsibilities (L) and Mission-Critical Environments (L)."
 
-  - Medium Level Topics (Object)
+  - Medium Level Topics (Objects)
     - ex. "Policy" within a Control stating "Ensure there is a Disaster Recovery (H) <b>Policy (M)</b> that identifies Roles and Responsibilities (L) and Mission-Critical Environments (L)."
 
-  - Low Level Topics (Target)
+  - Low Level Topics (Targets)
     - ex. "Roles and Responsibilities" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) that identifies <b>Roles and Responsibilities (L)</b> and Mission-Critical Environments (L)."
     - ex. "Mission-Critical Environments" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) that identifies Roles and Responsibilities (L) and <b>Mission-Critical Environments (L)</b>."
 
