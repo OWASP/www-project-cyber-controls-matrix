@@ -58,11 +58,11 @@ tags: OCCM
 <tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Contribution Forms</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Documentation</td><td>Instructions for Use (PDF, PPT)</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Instructions for Use (HTML)</td></tr>
+<tr><td align="center">O</td><td>Q3 2020</td><td>Feature</td><td>Statistics for Mappings</td></tr>
 <tr><td align="center">O</td><td>Q2 2020</td><td>Control Set / Framework</td><td>OWASP Top 10</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Control Set / Framework</td><td>OWASP Proactive Controls (OPC)</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Control Set / Framework</td><td>OWASP Mobile Top 10</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Control Set / Framework</td><td>NIST CSF</td></tr>
-<tr><td align="center"></td><td>Q3 2020</td><td>Feature</td><td>Statistics of Mappings</td></tr>
 <tr><td align="center"></td><td>Q3 2020</td><td>Feature</td><td>Support for Official and Third-Party Mappings (to reference against the OCCM mappings)</td></tr>
 <tr><td align="center"></td><td>Q3 2020</td><td>Control Set / Framework</td><td>DoD CMMC</td></tr>
 <tr><td align="center"></td><td>Q3 2020</td><td>Control Set / Framework</td><td>NIST SP 800-171 (DFARS 252.204-7012)</td></tr>
