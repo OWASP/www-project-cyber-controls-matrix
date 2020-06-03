@@ -60,7 +60,7 @@ Every Control entry in the OCCM is given one Control Level and is assigned one o
   - Sub-Controls
   - Enhancements
   - etc.
-<br>
+<p></p>
 
 * Mapping Levels of Detail for Each Control
 
