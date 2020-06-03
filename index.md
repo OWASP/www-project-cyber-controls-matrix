@@ -131,7 +131,7 @@ Please indicate the OWASP Cyber Controls Matrix in membership, donation, and spo
 
 All OWASP Projects are run and developed by volunteers and rely on [individual memberships](https://owasp.org/membership/), [personal donations](https://owasp.org/donate/), and [corporate memberships / sponsorships](https://owasp.org/supporters/) to continue their development. OWASP does not endorse or recommend commercial products or services, allowing our community to remain vendor neutral and focused on applying the collective wisdom of some of the best minds in Cybersecurity worldwide.
 
-The OWASP Foundation, Inc. is a non-profit 501(c)3 charitable organization. Some financial contributions may qualify for a tax deduction. Consult with a tax professional for details.
+The OWASP Foundation, Inc. is a non-profit 501(c)(3) charitable organization. Some financial contributions may qualify for a tax deduction. Consult with a tax professional for details.
 
 ***
 ## Legal
