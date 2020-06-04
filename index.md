@@ -9,6 +9,11 @@ pitch: Solve the problem of multiple cyber standards by consolidating them, redu
 
 ---
 
+<meta property="og:title" content="OWASP Cyber Controls Matrix (OCCM)" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://cybercontrolsmatrix.com" />
+<meta property="og:image" content="https://owasp.org/www-project-cyber-controls-matrix/assets/images/OCCM-logo-1000x348-wht.png" />
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153589924-2"></script>
 <script>
