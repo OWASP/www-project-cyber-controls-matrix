@@ -36,7 +36,7 @@ It just takes time to create the initial Cybersecurity Taxonomy and normalize hu
 <br>
 ## Releases
 
-<table align="center" style="font-size:90%;max-width:100%">
+<table align="left" style="font-size:90%;max-width:100%">
 <thead>
   <tr>
     <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Version</th>
@@ -54,7 +54,7 @@ It just takes time to create the initial Cybersecurity Taxonomy and normalize hu
 <br>
 ## Reference Material
 
-<table align="center" style="font-size:90%;max-width:100%">
+<table align="left" style="font-size:90%;max-width:100%">
 <thead>
   <tr>
     <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Version</th>
