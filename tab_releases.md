@@ -47,7 +47,7 @@ It just takes time to create the initial Cybersecurity Taxonomy and normalize hu
   </tr>
 </thead>
 <tbody>
-  <tr><td>TBD</td><td>TBD</td><td>TBD</td><td>TBD</td><td>-</td></tr>
+  <tr><td>TBD</td><td>TBD</td><td>TBD</td><td>TBD</td><td>TBD</td></tr>
 </tbody>
 </table>
 
