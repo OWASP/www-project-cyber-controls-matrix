@@ -51,7 +51,7 @@ It just takes time to create the initial Cybersecurity Taxonomy and normalize hu
 </tbody>
 </table>
 
-<br><br><br><br><br>
+<br clear=left>
 
 ## Reference Material
 
@@ -72,3 +72,5 @@ It just takes time to create the initial Cybersecurity Taxonomy and normalize hu
   <tr><td style="text-align:center">1.0</td><td style="white-space:nowrap">20200604</td><td style="white-space:nowrap"><b>PDF</b></td><td><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r4_v1.0.pdf"><b>OCCM Control Set for NIST SP 800-53 rev. 4</b></a></td><td>Does not contain mapping. Improved version of the official NIST NVD spreadsheet.</td></tr>
 </tbody>
 </table>
+
+<br clear=left>
