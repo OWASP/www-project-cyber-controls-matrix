@@ -29,6 +29,18 @@ tags: OCCM
 ***
 ## News
 
-Date | Event
----- | -----
-11 May 2020 | Project Launched
+<table align="left" style="font-size:90%;max-width:100%">
+<thead>
+  <tr>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Date</th>
+    <th style="white-space:pre-line;padding:10px;vertical-align:top;text-align:center">Event</th>
+  </tr>
+</thead>
+<tbody>
+  <tr><td>20200604</td><td>Release of Reference Materials: OCCM Control Sets for NIST 800-53r5 FPD and NIST 800-53r4.</td></tr>
+  <tr><td>20200511</td><td>Project Launched</td></tr>
+</tbody>
+</table>
+
+<div style="clear: both;"></div>
+<br>
