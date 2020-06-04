@@ -36,6 +36,13 @@ It just takes time to create the initial Cybersecurity Taxonomy and normalize hu
 <br>
 ## Releases
 
-Version | Date | Link | Comments
-------- | ---- | ---- | --------
+Version | Date | Type | Description
+------- | ---- | ---- | -----------
 tbd | tbd | tbd | -
+
+## Reference Material
+
+Version | Date | Type | Name | Description
+------- | ---- | ---- | -----| -----------
+[(1.0 | 20200604 | XLS | **OCCM Control Set for NIST SP 800-53 rev. 4** | Does not contain mapping. Improved version of the official spreadsheet.)](https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r4_v1.0.xlsx)
+1.0 | 20200604 | PDF | OCCM Control Set for NIST SP 800-53 rev. 4 | Does not contain mapping. Improved version of the official spreadsheet.
