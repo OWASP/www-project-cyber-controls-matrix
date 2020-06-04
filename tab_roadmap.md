@@ -34,7 +34,7 @@ tags: OCCM
 &nbsp;&nbsp;&nbsp;&nbsp; O = Ongoing
 </p>
 
-<table style="font-size:80%;max-width:100%">
+<table align="left" style="font-size:80%;max-width:100%">
 <thead>
   <tr>
     <th style="white-space:nowrap;vertical-align:top;text-align:center">Status</th>
