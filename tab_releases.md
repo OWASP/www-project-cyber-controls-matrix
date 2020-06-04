@@ -31,7 +31,7 @@ tags: OCCM
 ### Please see the Roadmap tab for the planned release schedule.
 <br>
 
-## OCCM Mapping Releases
+## OCCM Mapping
 
 <table align="left" style="font-size:90%;max-width:100%">
 <thead>
