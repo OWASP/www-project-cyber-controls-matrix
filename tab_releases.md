@@ -42,7 +42,18 @@ tbd | tbd | tbd | -
 
 ## Reference Material
 
-Version | Date | Type | Name | Description
-------- | ---- | ---- | -----| -----------
-1.0 | 20200604 | XLS | [**OCCM Control Set for NIST SP 800-53 rev. 4**](https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r4_v1.0.xlsx) | Does not contain mapping. Improved version of the official spreadsheet.
-1.0 | 20200604 | PDF | [OCCM Control Set for NIST SP 800-53 rev. 4](https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r4_v1.0.pdf) | Does not contain mapping. Improved version of the official spreadsheet.
+<table align="center" style="font-size:100%;max-width:100%">
+<thead>
+  <tr>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Version</th>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Date</th>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Type</th>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Name</th>
+    <th style="white-space:pre-line;padding:10px;vertical-align:top;text-align:center">Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r4_v1.0.xlsx"><td>1.0</td><td>20200604</td><td><b>XLS</b></td><td><b>OCCM Control Set for NIST SP 800-53 rev. 4</b></td><td>Does not contain mapping. Improved version of the official NIST NVD spreadsheet.</td></a></tr>
+  <tr><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r4_v1.0.pdf"><td>1.0</td><td>20200604</td><td><b>PDF</b></td><td><b>OCCM Control Set for NIST SP 800-53 rev. 4</b></td><td>Does not contain mapping. Improved version of the official NIST NVD spreadsheet.</td></a></tr>
+</tbody>
+</table>
