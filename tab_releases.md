@@ -39,8 +39,8 @@ It just takes time to create the initial Cybersecurity Taxonomy and normalize hu
 Version | Date | Type | Description
 ------- | ---- | ---- | -----------
 tbd | tbd | tbd | -
-<br>
 
+<br>
 ## Reference Material
 
 <table align="center" style="font-size:100%;max-width:100%">
