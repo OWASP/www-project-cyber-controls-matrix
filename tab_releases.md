@@ -27,14 +27,11 @@ tags: OCCM
 ![OCCM Logo Banner](https://owasp.org/www-project-cyber-controls-matrix/assets/images/OCCM-logo-1000x348-wht.png)
 
 ***
-## The OCCM is currently in pre-release.
-## Please see the Roadmap tab for an intended release schedule.
+### The OCCM is currently in pre-release.
+### Please see the Roadmap tab for the planned release schedule.
 <br>
-Core functionality is operational (schema and code for automated mapping).<br>
-<br>
-It just takes time to create the initial Cybersecurity Taxonomy and normalize hundreds of controls across the first control sets.<br>
-<br>
-## Releases
+
+## OCCM Mapping Releases
 
 <table align="left" style="font-size:90%;max-width:100%">
 <thead>
@@ -54,7 +51,7 @@ It just takes time to create the initial Cybersecurity Taxonomy and normalize hu
 <div style="clear: both;"></div>
 <br>
 
-## Reference Material
+## OCCM Reference Material
 
 <table align="left" style="font-size:90%;max-width:100%">
 <thead>
