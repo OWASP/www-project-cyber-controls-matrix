@@ -43,12 +43,16 @@ It just takes time to create the initial Cybersecurity Taxonomy and normalize hu
     <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Date</th>
     <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Type</th>
     <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Name</th>
+    <th style="white-space:pre-line;padding:10px;vertical-align:top;text-align:center">Description</th>
   </tr>
 </thead>
 <tbody>
   <tr><td>TBD</td><td>TBD</td><td>TBD</td><td>TBD</td><td>TBD</td></tr>
 </tbody>
 </table>
+
+<br>
+<br>
 
 ## Reference Material
 
