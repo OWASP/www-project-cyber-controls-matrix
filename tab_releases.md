@@ -53,7 +53,7 @@ tbd | tbd | tbd | -
   </tr>
 </thead>
 <tbody>
-  <tr><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r4_v1.0.xlsx"><td>1.0</td><td>20200604</td><td><b>XLS</b></td><td><b>OCCM Control Set for NIST SP 800-53 rev. 4</b></td><td>Does not contain mapping. Improved version of the official NIST NVD spreadsheet.</td></a></tr>
-  <tr><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r4_v1.0.pdf"><td>1.0</td><td>20200604</td><td><b>PDF</b></td><td><b>OCCM Control Set for NIST SP 800-53 rev. 4</b></td><td>Does not contain mapping. Improved version of the official NIST NVD spreadsheet.</td></a></tr>
+  <tr><td>1.0</td><td>20200604</td><td><b>XLS</b></td><td><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r4_v1.0.xlsx"><b>OCCM Control Set for NIST SP 800-53 rev. 4</b></a></td><td>Does not contain mapping. Improved version of the official NIST NVD spreadsheet.</td></tr>
+  <tr><td>1.0</td><td>20200604</td><td><b>PDF</b></td><td><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r4_v1.0.pdf"><b>OCCM Control Set for NIST SP 800-53 rev. 4</b></a></td><td>Does not contain mapping. Improved version of the official NIST NVD spreadsheet.</td></tr>
 </tbody>
 </table>
