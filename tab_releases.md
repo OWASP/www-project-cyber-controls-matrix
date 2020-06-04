@@ -36,9 +36,20 @@ It just takes time to create the initial Cybersecurity Taxonomy and normalize hu
 <br>
 ## Releases
 
-Version | Date | Type | Description
-------- | ---- | ---- | -----------
-tbd | tbd | tbd | -
+<table align="center" style="font-size:90%;max-width:100%">
+<thead>
+  <tr>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Version</th>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Date</th>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Type</th>
+    <th style="white-space:nowrap;padding:10px;vertical-align:top;text-align:center">Name</th>
+    <th style="white-space:pre-line;padding:10px;vertical-align:top;text-align:center">Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr><td>TBD</td><td>TBD</td><td>TBD</td><td>TBD</td><td>-</td></tr>
+</tbody>
+</table>
 
 <br>
 ## Reference Material
