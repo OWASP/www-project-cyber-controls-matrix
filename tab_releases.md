@@ -51,7 +51,7 @@ It just takes time to create the initial Cybersecurity Taxonomy and normalize hu
 </tbody>
 </table>
 
-<p class="clear"><br></p>
+<div style="clear: both;"></div>
 
 ## Reference Material
 
@@ -73,4 +73,4 @@ It just takes time to create the initial Cybersecurity Taxonomy and normalize hu
 </tbody>
 </table>
 
-<p class="clear"><br></p>
+<div style="clear: both;"></div>
