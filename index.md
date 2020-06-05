@@ -40,14 +40,14 @@ The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber 
 
 ***
 ## Use Cases
-* Implementing two or more cyber control sets / frameworks.
-  * <small>Consolidation, Knowledge, Levels of Detail, Relevance, Growth</small>
 * Implementing one cyber control set / framework.
-  * Knowledge, Levels of Detail, Relevance
+  * <small>&nbsp;| Knowledge | &nbsp;| Levels of Detail | &nbsp;| Relevance |</small>
+* Implementing two or more cyber control sets / frameworks.
+  * <small>&nbsp;| Consolidation | &nbsp;| Knowledge | &nbsp;| Levels of Detail | &nbsp;| Relevance | &nbsp;| Growth |</small>
 * Research and education on cyber topics.
-  * Knowledge, Cyber Taxonomy, Levels of Detail, Relevance, Growth
+  * <small>&nbsp;| Knowledge | &nbsp;| Cyber Taxonomy | &nbsp;| Levels of Detail | &nbsp;| Relevance | &nbsp;| Growth |</small>
 * Product features.
-  * Consolidation, Knowledge, Cyber Taxonomy, Levels of Detail, Relevance, Growth
+  * <small>&nbsp;| Consolidation | &nbsp;| Knowledge | &nbsp;| Cyber Taxonomy | &nbsp;| Levels of Detail | &nbsp;| Relevance | &nbsp;| Growth |</small>
 
 #### Consolidation
 
