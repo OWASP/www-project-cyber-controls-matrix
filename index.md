@@ -42,13 +42,13 @@ The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber 
 ***
 ## Use Cases
 * Implementing one cyber control set / framework.
-  * <small>&nbsp;| &nbsp;Knowledge &nbsp;| &nbsp;Levels of Detail &nbsp;| &nbsp;Relevance &nbsp;|</small>
+  * <small>&nbsp;Knowledge &nbsp;| &nbsp;Levels of Detail &nbsp;| &nbsp;Relevance</small>
 * Implementing two or more cyber control sets / frameworks.
-  * <small>&nbsp;| &nbsp;Consolidation &nbsp;| &nbsp;Knowledge &nbsp;| &nbsp;Levels of Detail &nbsp;| &nbsp;Relevance &nbsp;| &nbsp;Growth &nbsp;|</small>
+  * <small>&nbsp;Consolidation &nbsp;| &nbsp;Knowledge &nbsp;| &nbsp;Levels of Detail &nbsp;| &nbsp;Relevance &nbsp;| &nbsp;Growth</small>
 * Research and education on cyber topics.
-  * <small>&nbsp;| &nbsp;Knowledge &nbsp;| &nbsp;Cyber Taxonomy &nbsp;| &nbsp;Levels of Detail &nbsp;| &nbsp;Relevance &nbsp;| &nbsp;Growth &nbsp;|</small>
+  * <small>&nbsp;Knowledge &nbsp;| &nbsp;Cyber Taxonomy &nbsp;| &nbsp;Levels of Detail &nbsp;| &nbsp;Relevance &nbsp;| &nbsp;Growth</small>
 * Product features.
-  * <small>&nbsp;| &nbsp;Consolidation &nbsp;| &nbsp;Knowledge &nbsp;| &nbsp;Cyber Taxonomy &nbsp;| &nbsp;Levels of Detail &nbsp;| &nbsp;Relevance &nbsp;| &nbsp;Growth &nbsp;|</small>
+  * <small>&nbsp;Consolidation &nbsp;| &nbsp;Knowledge &nbsp;| &nbsp;Cyber Taxonomy &nbsp;| &nbsp;Levels of Detail &nbsp;| &nbsp;Relevance &nbsp;| &nbsp;Growth</small>
 
 #### Consolidation
 
