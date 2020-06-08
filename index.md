@@ -82,14 +82,14 @@ Every Control entry in the OCCM is given one Control Level and is assigned one o
 * Mapping Levels of Detail for Each Control
 
   - High Level Topics (Areas)
-    - ex. "Disaster Recovery" within a Control stating "Ensure there is a <b>Disaster Recovery (H)</b> Policy (M) that identifies Roles and Responsibilities (L) and Mission-Critical Environments (L)."
+    - <small>ex. "Disaster Recovery" within a Control stating "Ensure there is a <b>Disaster Recovery (H)</b> Policy (M) that identifies Roles and Responsibilities (L) and Mission-Critical Environments (L)."</small>
 
   - Medium Level Topics (Objects)
-    - ex. "Policy" within a Control stating "Ensure there is a Disaster Recovery (H) <b>Policy (M)</b> that identifies Roles and Responsibilities (L) and Mission-Critical Environments (L)."
+    - <small>ex. "Policy" within a Control stating "Ensure there is a Disaster Recovery (H) <b>Policy (M)</b> that identifies Roles and Responsibilities (L) and Mission-Critical Environments (L)."</small>
 
   - Low Level Topics (Targets)
-    - ex. "Roles and Responsibilities" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) that identifies <b>Roles and Responsibilities (L)</b> and Mission-Critical Environments (L)."
-    - ex. "Mission-Critical Environments" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) that identifies Roles and Responsibilities (L) and <b>Mission-Critical Environments (L)</b>."
+    - <small>ex. "Roles and Responsibilities" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) that identifies <b>Roles and Responsibilities (L)</b> and Mission-Critical Environments (L)."
+    - <small>ex. "Mission-Critical Environments" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) that identifies Roles and Responsibilities (L) and <b>Mission-Critical Environments (L)</b>."</small>
 
 #### Relevance
 
