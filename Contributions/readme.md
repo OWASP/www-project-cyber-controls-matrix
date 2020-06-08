@@ -11,12 +11,15 @@ Contributors acknowledge that by contributing, copyright for all contributions w
 ## Contribution Instructions
 
 **Please briefly explain the change in the Pull Request description.**
+**If a Control or similar Taxonomy entry already exists, please edit it rather than creating a new one.**
 
-* **Taxonomy Schema:**
+* **Taxonomy Contribution Schema:**
   * High-Level Topic (HLT),HLT Aliases,Medium-Level Topic (MLT),MLT Aliases,Low-Level Topic (LLT),LLT Aliases,Contributors
-  
-* **Controls Schema:**
+  * Required: One or more topics.
+
+* **Controls Contribution Schema:**
   * Control Set,Control Set Name,Control Sector,Abstraction,High-Level Topic (Area),Mid-Level Topic (Object),Low-Level Topic (Target),Control ID,Level,Control Name,Inactive,Notes,Contributors
+  * Required: Control Set. Control Name. One or more topic levels. If the Control has enough detail, two or three topic levels.
 
 **Control H/M/L Topics must correspond to H/M/L Topics (*NOT ALIASES*) in the Taxonomy.**
 
