@@ -53,6 +53,14 @@ tags: OCCM
   - No. The OCCM is a documentation project driven by code and rich data. Its singular focus is to provide valuable information to assist in implementing and complying with cyber controls across multiple standards / control sets / frameworks.
   - However, we hope that all types of software will use and leverage the OCCM. The OCCM and its content is a gift to the cyber industry; freely licensed for commercial, non-commercial, and government use; with the only stipulation being required attribution.
 
+* **How is the OCCM different from solutions that use Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP)?**
+
+  - The OCCM is complementary to AI/ML/NLP solutions. Each can be used to improve the other.
+  - At this time, we are not aware of any publicly available AI/ML/NLP control mappings. We have only seen academic papers, statistical analysis, and commercial software features. Please [(email)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM AI/ML/NLP Mapping) if you know of any AI/ML/NLP source that provides actual mappings.
+  - The OCCM content comes from cyber expert analysis, whereas AI/ML/NLP are based upon mathematical models. Both techniques have varying accuracy, biases, missing control relationships (false negatives) and mapping controls that shouldn't be (false positives).
+  - AI/ML/NLP approaches excel at discovering patterns among large amounts of data.
+  - The OCCM approach excels at applying human intuition, cyber expertise, and context to small amounts of data; utilizing the power of normalization (categorizing) to apply this to large amounts of data.
+
 * **How is the OCCM different from the Secure Controls Framework (SCF)?**
 
   - The approach of the OCCM is implementing and documenting the target control set while leveraging information from relevant controls in other control sets.
