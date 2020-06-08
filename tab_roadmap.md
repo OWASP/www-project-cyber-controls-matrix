@@ -54,8 +54,7 @@ tags: OCCM
 <tr><td align="center">O</td><td>Q2 2020</td><td>Webpage</td><td>Key Benefits and Key Features tabs</td></tr>
 <tr><td align="center">O</td><td>Q2 2020</td><td>Webpage</td><td>Graphics for Key Benefits and Key Features</td></tr>
 <tr><td align="center">O</td><td>Q2 2020</td><td>Normalization</td><td>Pre-populate Cyber Taxonomy per NIST, CIS, OWASP, and other sources</td></tr>
-<tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Guidance for Contributors</td></tr>
-<tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Contribution Forms</td></tr>
+<tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Webpage</td><td>Guidance for Contributors [on Github]</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Documentation</td><td>Instructions for Use (PDF, PPT)</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Webpage</td><td>Instructions for Use (HTML)</td></tr>
 <tr><td align="center">O</td><td>Q2 2020</td><td>Feature</td><td>Statistics for Mappings</td></tr>
