@@ -10,13 +10,13 @@ Contributors acknowledge that by contributing, copyright for all contributions w
 ***
 ## Contribution Instructions
 
-**1. Please briefly explain the change in the Pull Request description.**
+**1.  Please briefly explain the change in the Pull Request description.**
 
-**1. If a Control or similar Taxonomy entry already exists, please edit it rather than creating a new one.**
+**2.  If a Control or similar Taxonomy entry already exists, please edit it rather than creating a new one.**
 
-**1. Control H/M/L Topics must correspond to H/M/L Topics (*NOT ALIASES*) in the Taxonomy.**
+**3.  Control H/M/L Topics must correspond to H/M/L Topics (*NOT ALIASES*) in the Taxonomy.**
 
-  1. (Aliases are only used for reference, to support each taxonomy entry, and may be repeated.)
+  .  (Aliases are only used for reference, to support each taxonomy entry, and may be repeated.)
 
 ## Schema
 
