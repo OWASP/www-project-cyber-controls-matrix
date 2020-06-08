@@ -16,7 +16,7 @@ Contributors acknowledge that by contributing, copyright for all contributions w
 
 **3.  Control H/M/L Topics must correspond to H/M/L Topics (*NOT ALIASES*) in the Taxonomy.**
 
-  .  (Aliases are only used for reference, to support each taxonomy entry, and may be repeated.)
+&nbsp;&nbsp;&nbsp;&nbsp;(Aliases are only used for reference, to support each taxonomy entry, and may be repeated.)
 
 ## Schema
 
