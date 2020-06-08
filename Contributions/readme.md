@@ -18,6 +18,8 @@ Contributors acknowledge that by contributing, copyright for all contributions w
 
 &nbsp;&nbsp;&nbsp;&nbsp;(Aliases are only used for reference, to support each taxonomy entry, and may be repeated.)
 
+**4.  Note that one Control will usually have multiple sets of relevant Topics. Try to identify and submit them all.**
+
 ## Schema
 
 * **Taxonomy Contribution Schema:**
