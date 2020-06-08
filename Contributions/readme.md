@@ -10,13 +10,15 @@ Contributors acknowledge that by contributing, copyright for all contributions w
 ***
 ## Contribution Instructions
 
-**Please briefly explain the change in the Pull Request description.**
+**1. Please briefly explain the change in the Pull Request description.**
 
-**If a Control or similar Taxonomy entry already exists, please edit it rather than creating a new one.**
+**1. If a Control or similar Taxonomy entry already exists, please edit it rather than creating a new one.**
 
-**Control H/M/L Topics must correspond to H/M/L Topics (*NOT ALIASES*) in the Taxonomy.**
+**1. Control H/M/L Topics must correspond to H/M/L Topics (*NOT ALIASES*) in the Taxonomy.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;Aliases are only used for reference, to support each taxonomy entry, and may be repeated.
+  1. (Aliases are only used for reference, to support each taxonomy entry, and may be repeated.)
+
+## Schema
 
 * **Taxonomy Contribution Schema:**
   * High-Level Topic (HLT),HLT Aliases,Medium-Level Topic (MLT),MLT Aliases,Low-Level Topic (LLT),LLT Aliases,Contributors
@@ -25,6 +27,8 @@ Contributors acknowledge that by contributing, copyright for all contributions w
 * **Controls Contribution Schema:**
   * Control Set,Control Set Name,Control Sector,Abstraction,High-Level Topic (Area),Mid-Level Topic (Object),Low-Level Topic (Target),Control ID,Level,Control Name,Inactive,Notes,Contributors
   * Required: Control Set. Control Name. One or more topic levels. If the Control has enough detail, two or three topic levels.
+
+## Recognition
 
 * **If you'd like to be recognized as a Contributor** (not guaranteed and assuming your changes are accepted):
   * Put your Name / Handle and an optional URL (such as LinkedIn profile or Twitter) in the Contributor column. No commercial URLs.
