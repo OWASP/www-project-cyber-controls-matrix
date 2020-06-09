@@ -57,7 +57,7 @@ Most organizations today must comply with two or more standards in their quest f
 
 #### Knowledge
 
-Supercharging Cybersecurity knowledge, the OCCM points cyber analysts to the guidance, insights, references, and best practices available across all standards. This greatly improves understanding of how to implement and document controls, resulting in improved security and improved audit outcomes. Costly mistakes are also avoided thanks to visibility of other standards; ensuring that decisions also satisfy future security needs, not just the immediate ones.
+Supercharging Cybersecurity knowledge, the OCCM points cyber analysts to the guidance, insights, references, and best practices available across all standards. This greatly improves understanding of how to implement and document controls, resulting in improved security and improved audit outcomes. Gaps between standards are identified, enabling more comprehensive implementations. Costly mistakes are avoided thanks to visibility of other standards; ensuring that decisions also satisfy future security needs, not just the immediate ones.
 
 #### Cyber Taxonomy
 
