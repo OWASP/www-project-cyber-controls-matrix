@@ -37,7 +37,8 @@ tags: OCCM
   </tr>
 </thead>
 <tbody>
-  <tr><td>20200604</td><td>Release of Reference Materials: OCCM Control Sets for NIST 800-53r5 FPD and NIST 800-53r4.</td></tr>
+  <tr><td>20200612</td><td>Release of Reference Materials: OCCM Control Set for MITRE ATT&CK Enterprise v6.3</td></tr>
+  <tr><td>20200604</td><td>Release of Reference Materials: OCCM Control Sets for NIST 800-53r5 FPD and NIST 800-53r4</td></tr>
   <tr><td>20200511</td><td>Project Launched</td></tr>
 </tbody>
 </table>
