@@ -51,6 +51,7 @@ tags: OCCM
 <tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Webpage</td><td>Project Logo</td></tr>
 <tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Reference Material</td><td>OCCM Control Set: NIST SP 800-53 Rev. 4</td></tr>
 <tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Reference Material</td><td>OCCM Control Set: NIST SP 800-53 Rev. 5 Final Public Draft</td></tr>
+<tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Reference Material</td><td>OCCM Control Set: MITRE ATT&CK Enterprise v6.3</td></tr>
 <tr><td align="center">O</td><td>Q2 2020</td><td>Webpage</td><td>Key Benefits and Key Features tabs</td></tr>
 <tr><td align="center">O</td><td>Q2 2020</td><td>Webpage</td><td>Graphics for Key Benefits and Key Features</td></tr>
 <tr><td align="center">O</td><td>Q2 2020</td><td>Normalization</td><td>Pre-populate Cyber Taxonomy per NIST, CIS, OWASP, and other sources</td></tr>
@@ -79,6 +80,9 @@ tags: OCCM
 <tr><td align="center"></td><td>Q2 2021</td><td>Control Set / Framework</td><td>NIST SP 800-53 Rev. 5 [when released]</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>OWASP Software Assurance Maturity Model (SAMM)</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>NIST SP 800-137A</td></tr>
+<tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>MITRE ATT&CK Enterprise</td></tr>
+<tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>MITRE ATT&CK ICS</td></tr>
+<tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>MITRE ATT&CK Mobile</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>CISQ</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>ITAR</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>PCI DSS</td></tr>
