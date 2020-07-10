@@ -53,7 +53,7 @@ The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber 
 
 #### Consolidation
 
-Most organizations today must comply with two or more standards in their quest for enhanced Cybersecurity and compliance. This has traditionally been a very linear process, but the OCCM transforms it into a much more parallel one: de-duplicating effort. This can reduce project duration and effort by months. The OCCM means less time implementing, less time documenting, better results, and no more backtracking.
+Most organizations today must comply with two or more standards in their quest for enhanced Cybersecurity and compliance. This has traditionally been a very linear process, but the OCCM transforms it into a much more parallel one: de-duplicating effort and reducing project duration by months. The OCCM means less time implementing, less time documenting, better results, and no more backtracking.
 
 #### Knowledge
 
