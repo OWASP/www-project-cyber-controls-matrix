@@ -30,6 +30,7 @@ tags: OCCM
 ## Key Features
 
 * **One-to-Many Control Mapping**
+
   (vs. Many-to-Many)
   - Each Control is individually evaluated to others, greatly reducing the analysis needed to only directly relevant Controls.
   - One-to-many mapping provides a very direct result:  ""A1 --> B1, B2, B3, B4, B5"".  \[5 relationships needing analysis.]
