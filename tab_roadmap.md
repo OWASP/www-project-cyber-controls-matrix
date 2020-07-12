@@ -56,11 +56,9 @@ tags: OCCM
 <tr><td align="center">O</td><td>Q2 2020</td><td>Webpage</td><td>Graphics for Key Benefits and Key Features</td></tr>
 <tr><td align="center">O</td><td>Q2 2020</td><td>Normalization</td><td>Pre-populate Cyber Taxonomy per NIST, CIS, OWASP, and other sources</td></tr>
 <tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Webpage</td><td>Guidance for Contributors [on Github]</td></tr>
-<tr><td align="center">O</td><td>Q2 2020</td><td>Feature</td><td>Statistics for Mappings</td></tr>
+<tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Feature</td><td>Statistics for Mappings</td></tr>
 <tr><td align="center">O</td><td>Q2 2020</td><td>Feature</td><td>Support for Official and Third-Party Mappings (to reference against the OCCM mappings)</td></tr>
 <tr><td align="center">O</td><td>Q2 2020</td><td>Control Set / Framework</td><td>OWASP Top 10</td></tr>
-<tr><td align="center"></td><td>Q2 2020</td><td>Control Set / Framework</td><td>OWASP Proactive Controls (OPC)</td></tr>
-<tr><td align="center"></td><td>Q2 2020</td><td>Control Set / Framework</td><td>OWASP Mobile Top 10</td></tr>
 <tr><td align="center"></td><td>Q2 2020</td><td>Control Set / Framework</td><td>CIS Controls (Top 20 and Sub-Controls)</td></tr>
 <tr><td align="center"></td><td>Q3 2020</td><td>Documentation</td><td>Instructions for Use (HTML, PDF, PPT)</td></tr>
 <tr><td align="center"></td><td>Q3 2020</td><td>Control Set / Framework</td><td>DoD CMMC</td></tr>
@@ -68,7 +66,7 @@ tags: OCCM
 <tr><td align="center"></td><td>Q3 2020</td><td>Control Set / Framework</td><td>NIST CSF</td></tr>
 <tr><td align="center"></td><td>Q3 2020</td><td>Control Set / Framework</td><td>SOC 2 (AICPA TSC)</td></tr>
 <tr><td align="center"></td><td>Q3 2020</td><td>Control Set / Framework</td><td>CWE Top 25</td></tr>
-<tr><td align="center"></td><td>Q4 2020</td><td>Control Set / Framework</td><td>OWASP Application Security Verification Standard (ASVS)</td></tr>
+<tr><td align="center"></td><td>Q4 2020</td><td>Control Set / Framework</td><td>OWASP API Security Top 10</td></tr>
 <tr><td align="center"></td><td>Q4 2020</td><td>Control Set / Framework</td><td>ISO/IEC 27001 / ISO/IEC 27002</td></tr>
 <tr><td align="center"></td><td>Q4 2020</td><td>Control Set / Framework</td><td>ISO/IEC 27017</td></tr>
 <tr><td align="center"></td><td>Q4 2020</td><td>Control Set / Framework</td><td>ISO/IEC 27018</td></tr>
@@ -79,6 +77,9 @@ tags: OCCM
 <tr><td align="center"></td><td>Q1 2021</td><td>Control Set / Framework</td><td>DoD Cloud SRG</td></tr>
 <tr><td align="center"></td><td>Q2 2021</td><td>Control Set / Framework</td><td>NIST SP 800-53 Rev. 5 [when released]</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>OWASP Software Assurance Maturity Model (SAMM)</td></tr>
+<tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>OWASP Application Security Verification Standard (ASVS)</td></tr>
+<tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>OWASP Proactive Controls (OPC)</td></tr>
+<tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>OWASP Mobile Top 10</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>NIST SP 800-137A</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>MITRE ATT&CK Enterprise</td></tr>
 <tr><td align="center"></td><td>Future</td><td>Control Set / Framework</td><td>MITRE ATT&CK ICS</td></tr>
