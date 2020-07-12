@@ -54,12 +54,12 @@ The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber 
 #### Consolidation
 
 Most organizations today must comply with two or more standards in their quest for enhanced Cybersecurity and compliance. This has traditionally been a very linear process, but the OCCM transforms it into a much more parallel one: de-duplicating effort and reducing project duration by months. The OCCM means less time implementing, less time documenting, better results, and no more backtracking.
-<p></p>
+<p><br></p>
 
 #### Knowledge
 
 The OCCM points cyber analysts to knowledge across all standards; consisting of guidance, insights, references, and best practices. This greatly improves understanding of how to implement and document controls, resulting in improved security and improved audit outcomes. Gaps between standards are identified, enabling more comprehensive implementations. Costly mistakes are avoided thanks to visibility of other standards; ensuring that decisions also satisfy future security needs, not just the immediate ones.
-<p></p>
+<br>
 
 #### Cyber Taxonomy
 
@@ -104,7 +104,7 @@ For example, the group mapping "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5" genera
 Using the OCCM, this example can be greatly simplified and reduced to...
 - High Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1, B2, B3" &nbsp;&nbsp; \[3 relationships]
 -	Medium Level Mapping &nbsp;&nbsp;&nbsp; "A1 -> B1, B2" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[2 relationships]
--	Low Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[1 relationship]
+-	Low Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[1 relationship]
 <p></p>
 
 #### Growth
