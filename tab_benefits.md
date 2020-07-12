@@ -33,24 +33,27 @@ tags: OCCM
   - Reduces by months the duration and associated effort of implementing multiple Control Sets / Frameworks.
   - Transforms a very linear process into a more parallel one, where implementation effort is deduplicated.
   - Avoids costly mistakes by ensuring decisions satisfy all known current and future needs, not just the immediate one.
+<br>
 
 * **Consolidation of Knowledge from Other Control Sets / Frameworks**
   - Enables combining relevant implementation guidance, insights, references, and best practices across all mapped Controls Sets / Frameworks.
   - Greatly improves understanding of how to implement a Control by providing guidance and information from multiple sources.
   - Identifies gaps that exist between different Controls Sets / Frameworks, enabling more comprehensive implementations.
+<br>
 
 * **More Relevant and Useful Control Relationships**
   - Provides mappings at three different levels of detail, solving the problem of mappings that are too vague (excess Controls) or too specific (missing Controls).
   - Mappings can be viewed according to each Control's subject area, object, and targeted activity / information.
   - Directly maps between Control Sets / Frameworks, eliminating the indirect abstraction of intermediary sources like meta-frameworks.
+<br>
 
 * **Semi-Automation of Control Mapping**
   - Normalizing Controls to one or more topics automatically maps them across all Control Sets / Frameworks.
   - This normalization provides much more consistency, objectivity, and reliability to mapping Control relationships.
   - Validation from mappings of official and other sources help ensure that multi-level relationships are not being missed.
+<br>
 
 * **Cyber Taxonomy**
   - Creates a common lexicon for referring to every cyber topic addressed across all Control Sets / Frameworks.
   - Allows for easy filtering, grouping, and analysis of Controls with similar attributes across all Control Sets / Frameworks.
-
 <br>
