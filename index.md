@@ -53,18 +53,18 @@ The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber 
 
 #### Consolidation
 
-Most organizations today must comply with two or more standards in their quest for enhanced Cybersecurity and compliance. This has traditionally been a very linear process, but the OCCM transforms it into a much more parallel one: de-duplicating effort and reducing project duration by months. The OCCM means less time implementing, less time documenting, better results, and no more backtracking.
-<p><br></p>
+Most organizations today must comply with two or more standards in their quest for enhanced Cybersecurity and compliance. This has traditionally been a very linear process, but the OCCM transforms it into a much more parallel one: de-duplicating effort and reducing project duration by months. The OCCM means less time implementing, less time documenting, better results, and no more backtracking.<p><br></p>
 
 #### Knowledge
 
 The OCCM points cyber analysts to knowledge across all standards; consisting of guidance, insights, references, and best practices. This greatly improves understanding of how to implement and document controls, resulting in improved security and improved audit outcomes. Gaps between standards are identified, enabling more comprehensive implementations. Costly mistakes are avoided thanks to visibility of other standards; ensuring that decisions also satisfy future security needs, not just the immediate ones.
-<br>
+<p>nbps;</p>
 
 #### Cyber Taxonomy
 
 There is a multi-level cyber taxonomy at the core of the OCCM, to which all the control relationships are normalized. As a result, the mappings are more consistent, objective, organized, and reliable. No more vague groupings of controls or mysterious "black box" mappings. In the OCCM, it is clear how and why each control is related. Furthermore, the OCCM Cyber Taxonomy facilitates easy research of cyber topics and objectives across all standards.
-<p></p>
+<p>
+</p>
 
 #### Levels of Detail
 
@@ -93,7 +93,6 @@ Every Control entry in the OCCM is given one Control Level and is assigned one o
   - Low Level Topics (Targets)
     - <small>ex. "Roles and Responsibilities" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) that identifies <b>Roles and Responsibilities (L)</b> and Mission-Critical Environments (L)."
     - <small>ex. "Mission-Critical Environments" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) that identifies Roles and Responsibilities (L) and <b>Mission-Critical Environments (L)</b>."</small>
-<p></p>
 
 #### Relevance
 
@@ -105,7 +104,6 @@ Using the OCCM, this example can be greatly simplified and reduced to...
 - High Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1, B2, B3" &nbsp;&nbsp; \[3 relationships]
 -	Medium Level Mapping &nbsp;&nbsp;&nbsp; "A1 -> B1, B2" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[2 relationships]
 -	Low Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[1 relationship]
-<p></p>
 
 #### Growth
 
@@ -159,12 +157,10 @@ The OWASP Foundation, Inc. is a non-profit 501(c)(3) charitable organization. So
 ## Legal
 
 For any questions regarding this section, send an email to: [occm@cybercontrolsmatrix.com](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Legal)
-<p></p>
 
 #### Image Use
 
 Images created or taken from the OWASP Cyber Controls Matrix (OCCM), OCCM content, and this website may be used if the following attribution is given beneath the image or in the image caption: "Image credit https://cybercontrolsmatrix.com". If the image content has been modified (excluding size, color, positioning, and formatting changes) or added to other content, the following attribution must be given instead: "Adapted from https://cybercontrolsmatrix.com".
-<p></p>
 
 #### Required Attribution
 
@@ -173,19 +169,16 @@ Per the open license, all of the paragraphs within the License, Copyright & Trad
 Partial exception is made for online postings and blog entries (personal or commercial), whose attribution must at minimum mention the "OWASP Cyber Controls Matrix (OCCM)" and its website "https://cybercontrolsmatrix.com". Further mention of the creator "Eric Bragger" and any listed core team members is highly encouraged and appreciated.
 
 Partial exception is made for commercial articles, white papers, documentation, and sales collateral; whose attribution must at minimum contain the first paragraph of the Copyright & Trademarks section -- including the links in parenthesis, as functional or non-functional.
-<p></p>
 
 #### License
 
 The OWASP Cyber Controls Matrix (OCCM) is licensed under a [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial and government, with attribution. Additional license terms and conditions, such as indemnification, are detailed within the Required Attribution section text that must be provided with use or distribution of the OCCM.
-<p></p>
 
 #### Copyright & Trademarks
 
 The OWASP Cyber Controls Matrix (OCCM) [(https://cybercontrolsmatrix.com)](https://cybercontrolsmatrix.com) is copyright the OWASP Foundation, Inc. [(https://owasp.org)](https://owasp.org) and its creator Eric Bragger [(https://www.linkedin.com/in/eric-bragger/)](https://www.linkedin.com/in/eric-bragger/). All rights reserved. Control Identifiers (IDs), Control Names, Control Headings, Control Set Names, Framework Names, and associated content are copyright their respective owners. "OWASP"™ is trademark the OWASP Foundation, Inc. "Cyber Controls Matrix"™, "Open Cyber Controls Matrix"™, "OCCM"™, and "OCCM Cyber Taxonomy"™, including their logos and trade dress, are trademark Eric Bragger. All other trademarks belong to their respective owners.
 
 Contributors acknowledge that by contributing, copyright for all contributions will be transferred in full, without any obligation whatsoever expressed or implied, to: the OWASP Foundation, Inc., the OCCM Creator, and the OCCM Project Leader. Contributions may be used, shared, and disseminated at the complete discretion of the OWASP Foundation, Inc., the OCCM Creator, the OCCM Project Leader, and anyone associated with the project whether in an official or non-official capacity. Contributions may include, but are not limited to: information, content, assistance, ideas, software code, submissions, employment, licensing, financial support, marketing, promotion, endorsement, and sponsorship.
-<p></p>
 
 #### Disclaimer & Limitations
 
