@@ -52,8 +52,8 @@ tags: OCCM
 <tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Reference Material</td><td>OCCM Control Set: NIST SP 800-53 Rev. 4</td></tr>
 <tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Reference Material</td><td>OCCM Control Set: NIST SP 800-53 Rev. 5 Final Public Draft</td></tr>
 <tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Reference Material</td><td>OCCM Control Set: MITRE ATT&CK Enterprise v6.3</td></tr>
-<tr><td align="center">O</td><td>Q2 2020</td><td>Webpage</td><td>Key Benefits and Key Features tabs</td></tr>
-<tr><td align="center">O</td><td>Q2 2020</td><td>Webpage</td><td>Graphics for Key Benefits and Key Features</td></tr>
+<tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Webpage</td><td>Benefits and Features tabs</td></tr>
+<tr><td align="center">O</td><td>Q2 2020</td><td>Webpage</td><td>Graphics for Benefits and Features</td></tr>
 <tr><td align="center">O</td><td>Q2 2020</td><td>Normalization</td><td>Pre-populate Cyber Taxonomy per NIST, CIS, OWASP, and other sources</td></tr>
 <tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Webpage</td><td>Guidance for Contributors [on Github]</td></tr>
 <tr><td align="center"><b>X</b></td><td>Q2 2020</td><td>Feature</td><td>Statistics for Mappings</td></tr>
