@@ -27,9 +27,6 @@ tags: OCCM
 ![OCCM Logo Banner](https://owasp.org/www-project-cyber-controls-matrix/assets/images/OCCM-logo-1000x348-wht.png)
 
 ***
-### The OCCM Mapping is currently in pre-release.
-### Please see the Roadmap tab for the planned release schedule.
-<br>
 
 ## OCCM Mapping
 
@@ -49,6 +46,9 @@ tags: OCCM
 </table>
 
 <div style="clear: both;"></div>
+
+### The OCCM Mapping is currently in pre-release.
+### Please see the Roadmap tab for the planned release schedule.
 <br>
 
 ## OCCM Reference Material
@@ -64,11 +64,11 @@ tags: OCCM
   </tr>
 </thead>
 <tbody>
-  <tr><td style="text-align:center">1.0</td><td style="white-space:nowrap">20200612</td><td style="white-space:nowrap"><b>XLS</b></td><td><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - MITRE ATT&CK Enterprise v6.3_20191024_1.0.xlsx"><b>OCCM Control Set for MITRE ATT&CK Enterprise v6.3 (20191024)</b></a></td><td>Comprehensive spreadsheet of Tactics, Techniques, Mitigations, APT Groups, and Malicious Software.<br>Does not contain mapping.</td></tr>
+  <tr><td style="text-align:center">1.0</td><td style="white-space:nowrap">20200612</td><td style="white-space:nowrap"><b>XLSX</b></td><td><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - MITRE ATT&CK Enterprise v6.3_20191024_1.0.xlsx"><b>OCCM Control Set for MITRE ATT&CK Enterprise v6.3 (20191024)</b></a></td><td>Comprehensive spreadsheet of Tactics, Techniques, Mitigations, APT Groups, and Malicious Software.<br>Does not contain mapping.</td></tr>
   <tr><td style="text-align:center">1.0</td><td style="white-space:nowrap">20200612</td><td style="white-space:nowrap"><b>PDF</b></td><td><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - MITRE ATT&CK Enterprise v6.3_20191024_1.0.pdf"><b>OCCM Control Set for MITRE ATT&CK Enterprise v6.3 (20191024)</b></a></td><td>Comprehensive spreadsheet of Tactics, Techniques, Mitigations, APT Groups, and Malicious Software.<br>Does not contain mapping.</td></tr>
-  <tr><td style="text-align:center">1.0</td><td style="white-space:nowrap">20200604</td><td style="white-space:nowrap"><b>XLS</b></td><td><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r5 Final Public Draft_v1.0.xlsx"><b>OCCM Control Set for NIST SP 800-53 rev. 5 Final Public Draft</b></a></td><td>Improved version of the official NIST spreadsheet.<br>Does not contain mapping.</td></tr>
+  <tr><td style="text-align:center">1.0</td><td style="white-space:nowrap">20200604</td><td style="white-space:nowrap"><b>XLSX</b></td><td><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r5 Final Public Draft_v1.0.xlsx"><b>OCCM Control Set for NIST SP 800-53 rev. 5 Final Public Draft</b></a></td><td>Improved version of the official NIST spreadsheet.<br>Does not contain mapping.</td></tr>
   <tr><td style="text-align:center">1.0</td><td style="white-space:nowrap">20200604</td><td style="white-space:nowrap"><b>PDF</b></td><td><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r5 Final Public Draft_v1.0.pdf"><b>OCCM Control Set for NIST SP 800-53 rev. 5 Final Public Draft</b></a></td><td>Improved version of the official NIST spreadsheet.<br>Does not contain mapping.</td></tr>
-  <tr><td style="text-align:center">1.0</td><td style="white-space:nowrap">20200604</td><td style="white-space:nowrap"><b>XLS</b></td><td><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r4_v1.0.xlsx"><b>OCCM Control Set for NIST SP 800-53 rev. 4</b></a></td><td>Improved version of the official NIST NVD spreadsheet.<br>Does not contain mapping.</td></tr>
+  <tr><td style="text-align:center">1.0</td><td style="white-space:nowrap">20200604</td><td style="white-space:nowrap"><b>XLSX</b></td><td><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r4_v1.0.xlsx"><b>OCCM Control Set for NIST SP 800-53 rev. 4</b></a></td><td>Improved version of the official NIST NVD spreadsheet.<br>Does not contain mapping.</td></tr>
   <tr><td style="text-align:center">1.0</td><td style="white-space:nowrap">20200604</td><td style="white-space:nowrap"><b>PDF</b></td><td><a href="https://www.cybercontrolsmatrix.com/Releases/OCCM Control Set - NIST SP 800-53 r4_v1.0.pdf"><b>OCCM Control Set for NIST SP 800-53 rev. 4</b></a></td><td>Improved version of the official NIST NVD spreadsheet.<br>Does not contain mapping.</td></tr>
 </tbody>
 </table>
