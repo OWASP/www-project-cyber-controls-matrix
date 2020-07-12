@@ -126,13 +126,6 @@ The OCCM has been designed with the principles of easy contribution, accelerated
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) [(Email)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Website email)
 
 ***
-## Contributions
-
-Contributions to the OCCM are welcome and appreciated.
-
-Contributors acknowledge that by contributing, copyright for all contributions will be transferred in full to the OWASP Foundation, Inc, the OCCM Creator, and the OCCM Project Leader. Please see the Legal section for further details.
-
-***
 ## Core Team
 
 Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) [(Email)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Website email) \[Creator / Project Leader]
@@ -140,6 +133,13 @@ Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) [(Email)](m
 ***
 ## Contributor List
 Your Name Here (Your URL Here)
+
+***
+## Contributions
+
+Contributions to the OCCM are welcome and appreciated. Please contact the Core Team to get started.
+
+Contributors acknowledge that by contributing, copyright for any and all contributions will be transferred in full to the OWASP Foundation, the OCCM Creator, and the OCCM Project Leader. Please see the Legal section for further details.
 
 ***
 ## Membership, Donations, and Sponsorship
