@@ -123,12 +123,12 @@ The OCCM has been designed with the principles of easy contribution, accelerated
 ## From the Creator / Project Leader
 
 "The capabilities of the OWASP Cyber Controls Matrix are something I have wanted to see my entire career. It is my honor to create it and give it to the entire Cybersecurity industry as an open-source OWASP project. Per the license, I encourage commercial products, non-commercial products, and cyber practitioners to fully incorporate it and contribute back to the project. First and foremost, the OCCM is a community driven effort. All submissions, ideas, promotion, and discourse are greatly appreciated. Thank you for your support!"
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) [(Email)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Website email)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) [(Email)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Website)
 
 ***
 ## Core Team
 
-Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) [(Email)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Website email) \[Creator / Project Leader]
+Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) [(Email)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Website) \[Creator / Project Leader]
 
 ***
 ## Contributor List
@@ -137,14 +137,14 @@ Your Name Here (Your URL Here)
 ***
 ## Contributions
 
-Contributions to the OCCM are welcome and appreciated. Please contact the Core Team to get started.
+Contributions to the OCCM are welcome and appreciated. Please [(contact us)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Contributor) to get started.
 
 Contributors acknowledge that by contributing, copyright for any and all contributions will be transferred in full to the OWASP Foundation, the OCCM Creator, and the OCCM Project Leader. Please see the Legal section for further details.
 
 ***
 ## Membership, Donations, and Sponsorship
 
-Please indicate the OWASP Cyber Controls Matrix in membership, donation, and sponsorship comments if you wish to specifically and directly support this project. General contributions to the OWASP Foundation will also support this project and others like it.
+Please indicate the OWASP Cyber Controls Matrix (OCCM) in OWASP membership, donation, and sponsorship comments if you wish to specifically and directly support this project. General contributions to the OWASP Foundation will also support this project and others like it. If there is no place to indicate OCCM, please continue and then [(contact us)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Funding) to ensure the OCCM is credited.
 
 All OWASP Projects are run and developed by volunteers and rely on [individual memberships](https://owasp.org/membership/), [personal donations](https://owasp.org/donate/), and [corporate memberships / sponsorships](https://owasp.org/supporters/) to continue their development. OWASP does not endorse or recommend commercial products or services, allowing our community to remain vendor neutral and focused on applying the collective wisdom of some of the best minds in Cybersecurity worldwide.
 
@@ -153,7 +153,7 @@ The OWASP Foundation, Inc. is a non-profit 501(c)(3) charitable organization. So
 ***
 ## Legal
 
-For any questions regarding this section, send an email to: [occm@cybercontrolsmatrix.com](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Legal Questions)
+For any questions regarding this section, send an email to: [occm@cybercontrolsmatrix.com](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Legal)
 
 #### Image Use
 
