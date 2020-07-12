@@ -31,7 +31,7 @@ tags: OCCM
 
 * **Consolidation of Multiple Compliance Efforts**
   - Reduces by months the duration and associated effort of implementing multiple Control Sets / Frameworks.
-  - Transforms a very linear process into a more parallel one, where implementation effort is deduplicated.
+  - Transforms a very linear process into a more parallel one, where implementation is de-duplicated.
   - Avoids costly mistakes by ensuring decisions satisfy all known current and future needs, not just the immediate one.
 <p></p>
 
