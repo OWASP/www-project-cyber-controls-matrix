@@ -38,13 +38,12 @@ tags: OCCM
 * **Mapping at Three Separate Levels of Detail** (vs. One Level)
   - Enables the analysis of related Controls at general, specific, and detailed levels.
   - Ensures that Controls won't be missed because of a too general or too specific mapping approach.
-<p><br></p>
+<p></p>
 
 * **Mapping of Sub-Controls, Control Enhancements, and Audit Checks** (vs. Only including Top-Level Controls)
   - Increases relevance and detail greatly by mapping directly to a Sub-Control and Control Enhancement rather than just its Top-Level Control.
   - Even though Sub-Controls and Control Enhancements are often required, they are usually missing from official and other sources' mappings.
 <p><br></p>
-
 * **Normalization of Controls across Control Sets** (vs. No points of reference for Control relationships and mapping)
   - Matching on a normalized taxonomy exposes the reason that Controls are mapped to each other.
   - Control mappings are no longer a mysterious black box.
