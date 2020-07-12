@@ -53,17 +53,17 @@ The OWASP Cyber Controls Matrix (OCCM) is an innovation in the mapping of cyber 
 
 #### Consolidation
 
-Most organizations today must comply with two or more standards in their quest for enhanced Cybersecurity and compliance. This has traditionally been a very linear process, but the OCCM transforms it into a much more parallel one: de-duplicating effort and reducing project duration by months. The OCCM means less time implementing, less time documenting, better results, and no more backtracking.<p><br></p>
+Most organizations today must comply with two or more standards in their quest for enhanced Cybersecurity and compliance. This has traditionally been a very linear process, but the OCCM transforms it into a much more parallel one: de-duplicating effort and reducing project duration by months. The OCCM means less time implementing, less time documenting, better results, and no more backtracking.
 
 #### Knowledge
 
 The OCCM points cyber analysts to knowledge across all standards; consisting of guidance, insights, references, and best practices. This greatly improves understanding of how to implement and document controls, resulting in improved security and improved audit outcomes. Gaps between standards are identified, enabling more comprehensive implementations. Costly mistakes are avoided thanks to visibility of other standards; ensuring that decisions also satisfy future security needs, not just the immediate ones.
-<p>nbps;</p>
+<p>&nbsp;</p>
 
 #### Cyber Taxonomy
 
 There is a multi-level cyber taxonomy at the core of the OCCM, to which all the control relationships are normalized. As a result, the mappings are more consistent, objective, organized, and reliable. No more vague groupings of controls or mysterious "black box" mappings. In the OCCM, it is clear how and why each control is related. Furthermore, the OCCM Cyber Taxonomy facilitates easy research of cyber topics and objectives across all standards.
-<p>
+<p>&nbsp;
 </p>
 
 #### Levels of Detail
