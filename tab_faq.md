@@ -55,7 +55,7 @@ tags: OCCM
 
 * **How is the OCCM different from solutions that use Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP)?**
 
-  - The OCCM is complementary to AI/ML/NLP solutions. Each can be used to improve the other.
+  - The OCCM is complementary to AI/ML/NLP solutions. Each can be used to validate and improve the other.
   - At this time, we are not aware of any publicly available AI/ML/NLP control mappings. We have only seen academic papers, statistical analysis, and commercial software features. Please [(email)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM AI/ML/NLP Mapping) if you know of any AI/ML/NLP source that provides actual mappings.
   - The OCCM content comes from cyber expert analysis, whereas AI/ML/NLP are based upon mathematical models. Both techniques have varying accuracy, biases, missing control relationships (false negatives) and mapping controls that shouldn't be (false positives).
   - AI/ML/NLP approaches excel at discovering patterns among large amounts of data.
