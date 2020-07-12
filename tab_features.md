@@ -33,8 +33,12 @@ tags: OCCM
 
   (vs. Many-to-Many)
   - Each Control is individually evaluated to others, greatly reducing the analysis needed to only directly relevant Controls.
-  - One-to-many mapping provides a very direct result:  ""A1 --> B1, B2, B3, B4, B5"".  \[5 relationships needing analysis.]
-  - Many-to-many mapping provides an indirect, grouped result:  ""A1, A2, A3, A4, A5 --> B1, B2, B3, B4, B5"".  \[25 relationships needing analysis.]
+  - One-to-many mapping provides a very direct result:
+  
+    "A1 --> B1, B2, B3, B4, B5".  \[5 relationships needing analysis.]
+  - Many-to-many mapping provides an indirect, grouped result:
+  
+    "A1, A2, A3, A4, A5 --> B1, B2, B3, B4, B5".  \[25 relationships needing analysis.]
 <p></p>
 
 * **Mapping at Three Separate Levels of Detail**
@@ -69,9 +73,13 @@ tags: OCCM
   (vs. Having to go elsewhere for other mappings)
   - Referencing official and other mappings as a one-stop-shop.
   - Validation from mappings of official and other sources help ensure that normalizations are not being missed.
-  - Official and other sources' mappings take a different, but still valid, approach.
-  - Corollary:  "There's More Than One Way To Do It"  \[Perl motto]
-  - Anti-Corollary: "There should be one — and preferably only one — obvious way to do it."  \[Zen of Python]
+  - Official and other sources' mappings take a different, but still valid approach.
+  - Corollary:
+  
+    "There's More Than One Way To Do It"  \[Perl motto]
+  - Anti-Corollary:
+  
+    "There should be one — and preferably only one — obvious way to do it."  \[Zen of Python]
 <p></p>
 
 <br>
