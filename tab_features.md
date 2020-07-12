@@ -29,32 +29,38 @@ tags: OCCM
 ***
 ## Key Features
 
-* **One-to-Many Control Mapping** (vs. Many-to-Many)
+* **One-to-Many Control Mapping**
+  (vs. Many-to-Many)
   - Each Control is individually evaluated to others, greatly reducing the analysis needed to only directly relevant Controls.
   - One-to-many mapping provides a very direct result:  ""A1 --> B1, B2, B3, B4, B5"".  \[5 relationships needing analysis.]
   - Many-to-many mapping provides an indirect, grouped result:  ""A1, A2, A3, A4, A5 --> B1, B2, B3, B4, B5"".  \[25 relationships needing analysis.]
 <p></p>
 
-* **Mapping at Three Separate Levels of Detail** (vs. One Level)
+* **Mapping at Three Separate Levels of Detail**
+  (vs. One Level)
   - Enables the analysis of related Controls at general, specific, and detailed levels.
   - Ensures that Controls won't be missed because of a too general or too specific mapping approach.
 <p></p>
 
-* **Mapping of Sub-Controls, Control Enhancements, and Audit Checks** (vs. Only including Top-Level Controls)
+* **Mapping of Sub-Controls, Control Enhancements, and Audit Checks**
+  (vs. Only including Top-Level Controls)
   - Increases relevance and detail greatly by mapping directly to a Sub-Control and Control Enhancement rather than just its Top-Level Control.
   - Even though Sub-Controls and Control Enhancements are often required, they are usually missing from official and other sources' mappings.
 <p></p>
 
-* **Normalization of Controls across Control Sets** (vs. No points of reference for Control relationships and mapping)
+* **Normalization of Controls across Control Sets**
+  (vs. No points of reference for Control relationships and mapping)
   - Matching on a normalized taxonomy exposes the reason that Controls are mapped to each other.
   - Control mappings are no longer a mysterious black box.
 <p></p>
 
-* **Relation to Other Controls within the Same Control Set** (vs. Not knowing how Controls relate to each other)
+* **Relation to Other Controls within the Same Control Set**
+  (vs. Not knowing how Controls relate to each other)
   - See relations between Controls, irrespective of how they were organized in the Control Set.
 <p></p>
 
-* **Includes Mappings from Official and Other Sources** (vs. Having to go elsewhere for other mappings)
+* **Includes Mappings from Official and Other Sources**
+  (vs. Having to go elsewhere for other mappings)
   - Referencing official and other mappings as a one-stop-shop.
   - Validation from mappings of official and other sources help ensure that normalizations are not being missed.
   - Official and other sources' mappings take a different, but still valid, approach.
