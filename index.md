@@ -163,9 +163,9 @@ Images created or taken from the OWASP Cyber Controls Matrix (OCCM), OCCM conten
 
 Per the open license, all of the paragraphs within the License, Copyright & Trademarks, and Disclaimer & Limitations sections must be included as full attribution -- including the links in parenthesis, as functional or non-functional -- with, but not limited to: any written / electronic distribution, creation, content, output, or product; documentation; repository; webpage; software; or any other distribution, creation, content, output, or product that incorporates any part or whole of the OWASP Cyber Controls Matrix (OCCM) or associated content.
 
-Partial exception is made for online postings and blog entries (personal or commercial), whose attribution must at minimum make mention of the "OWASP Cyber Controls Matrix (OCCM)". Mention of the website "https://cybercontrolsmatrix.com", the creator "Eric Bragger", and any other core team members is highly encouraged and appreciated.
+Partial exception is made for online postings and blog entries (personal or commercial), whose attribution must at minimum mention the "OWASP Cyber Controls Matrix (OCCM)" and its website "https://cybercontrolsmatrix.com". Further mention of the creator "Eric Bragger" and any listed core team members is highly encouraged and appreciated.
 
-Partial exception is made for commercial articles, white papers, documentation, and sales collateral; whose attribution must at minimum include the first paragraph in the Copyright & Trademarks section.
+Partial exception is made for commercial articles, white papers, documentation, and sales collateral; whose attribution must at minimum contain the first paragraph of the Copyright & Trademarks section -- including the links in parenthesis, as functional or non-functional.
 
 #### License
 
@@ -173,7 +173,7 @@ The OWASP Cyber Controls Matrix (OCCM) is licensed under a [Creative Commons Att
 
 #### Copyright & Trademarks
 
-The OWASP Cyber Controls Matrix (OCCM) [(https://cybercontrolsmatrix.com)](https://cybercontrolsmatrix.com) is copyright the OWASP Foundation, Inc. [(https://owasp.org)](https://owasp.org) and its creator Eric Bragger [(https://www.linkedin.com/in/eric-bragger/)](https://www.linkedin.com/in/eric-bragger/). All rights reserved. Control Identifiers (IDs), Control Names, Control Headings, Control Set Names, and Framework Names are copyright their respective owners. "OWASP"™ is trademark the OWASP Foundation, Inc. "Cyber Controls Matrix"™, "Open Cyber Controls Matrix"™, "OCCM"™, and "OCCM Cyber Taxonomy"™, including their logos and trade dress, are trademark Eric Bragger. All other trademarks belong to their respective owners.
+The OWASP Cyber Controls Matrix (OCCM) [(https://cybercontrolsmatrix.com)](https://cybercontrolsmatrix.com) is copyright the OWASP Foundation, Inc. [(https://owasp.org)](https://owasp.org) and its creator Eric Bragger [(https://www.linkedin.com/in/eric-bragger/)](https://www.linkedin.com/in/eric-bragger/). All rights reserved. Control Identifiers (IDs), Control Names, Control Headings, Control Set Names, Framework Names, and associated content are copyright their respective owners. "OWASP"™ is trademark the OWASP Foundation, Inc. "Cyber Controls Matrix"™, "Open Cyber Controls Matrix"™, "OCCM"™, and "OCCM Cyber Taxonomy"™, including their logos and trade dress, are trademark Eric Bragger. All other trademarks belong to their respective owners.
 
 Contributors acknowledge that by contributing, copyright for all contributions will be transferred in full, without any obligation whatsoever expressed or implied, to: the OWASP Foundation, Inc., the OCCM Creator, and the OCCM Project Leader. Contributions may be used, shared, and disseminated at the complete discretion of the OWASP Foundation, Inc., the OCCM Creator, the OCCM Project Leader, and anyone associated with the project whether in an official or non-official capacity. Contributions may include, but are not limited to: information, content, assistance, ideas, software code, submissions, employment, licensing, financial support, marketing, promotion, endorsement, and sponsorship.
 
