@@ -140,7 +140,7 @@ Your Name Here (Your URL Here)
 
 Contributions to the OCCM are welcome and appreciated. Please [(contact us)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Contributor) to get started.
 
-Contributors acknowledge that by contributing, copyright for any and all contributions will be transferred in full to the OWASP Foundation, the OCCM Creator, and the OCCM Project Leader. Please see the Legal section for further details.
+Contributors acknowledge that by contributing, copyright for any and all contributions will be transferred in full to the OWASP Foundation, the OCCM Creator, and the OCCM Project Leader. Please see the "Legal" section for further details.
 
 ***
 ## Membership, Donations, and Sponsorship
@@ -162,17 +162,17 @@ For any questions regarding this section, send an email to: [occm@cybercontrolsm
 
 Per the License, all of the paragraphs within the "License", "Copyrights & Trademarks", and "Disclaimer & Limitations" sections must be included as full attribution -- including the links in parenthesis, as functional or non-functional -- with, but not limited to: any written / electronic distribution, creation, content, output, or product; documentation; repository; webpage; software; forks; or any other distribution, creation, content, output, or product that incorporates any part or whole of the OWASP Cyber Controls Matrix (OCCM) or associated content.
 
-##### Partial Exception: Image Use
+##### Special Exception: Image Use
 
-Partial exception is made for image use. Images created or taken from the OWASP Cyber Controls Matrix (OCCM), OCCM content, and this website may be used if the following Required Attribution is given beneath the image or in the image caption: "Image credit https://cybercontrolsmatrix.com". If the image content has been modified (excluding size, color, positioning, and formatting changes) or added to other content, the following Required Attribution must be given instead: "Adapted from https://cybercontrolsmatrix.com".
+Special exception is made for image use. Images created or taken from the OWASP Cyber Controls Matrix (OCCM), OCCM content, and this website may be used if the following Required Attribution is given beneath the image or in the image caption: "Image credit https://cybercontrolsmatrix.com". If the image content has been modified (excluding size, color, positioning, and formatting changes) or added to other content, the following Required Attribution must be given instead: "Adapted from https://cybercontrolsmatrix.com".
 
-##### Partial Exception: Online Postings and Blog Entries
+##### Special Exception: Online Postings and Blog Entries
 
-Partial exception is made for online postings and blog entries (personal or commercial), whose Required Attribution must at minimum mention the "OWASP Cyber Controls Matrix (OCCM)" and its website "https://cybercontrolsmatrix.com". Further mention of the creator "Eric Bragger" and any listed core team members is highly encouraged and appreciated.
+Special exception is made for online postings and blog entries (personal or commercial), whose Required Attribution must at minimum mention the "OWASP Cyber Controls Matrix (OCCM)" and its website "https://cybercontrolsmatrix.com". Further mention of the creator "Eric Bragger" and any listed core team members is highly encouraged and appreciated.
 
-##### Partial Exception: Commercial Articles, White Papers, Documentation, and Sales Collateral
+##### Special Exception: Commercial Articles, White Papers, Documentation, and Sales Collateral
 
-Partial exception is made for commercial articles, white papers, documentation, and sales collateral; whose Required Attribution must at minimum contain the first paragraph of the Copyrights & Trademarks section -- including the links in parenthesis, as functional or non-functional.
+Special exception is made for commercial articles, white papers, documentation, and sales collateral; whose Required Attribution must at minimum contain the first paragraph of the "Copyrights & Trademarks" section -- including the links in parenthesis, as functional or non-functional.
 
 #### No Endorsement
 
@@ -184,7 +184,7 @@ Per the License, modifications made to the Licensed material must be indicated w
 
 #### License
 
-The OWASP Cyber Controls Matrix (OCCM) is licensed under a [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial and government, with attribution. Additional license terms and conditions are detailed within the Required Attribution section text that must be provided with use or distribution of the OCCM.
+The OWASP Cyber Controls Matrix (OCCM) is licensed under a [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial and government, with attribution as specified in the "Required Attribution" section of this webpage.
 
 #### Copyrights & Trademarks
 
