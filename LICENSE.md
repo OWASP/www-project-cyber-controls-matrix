@@ -1,6 +1,5 @@
 ## IMPORTANT:
-### Required Attribution, Copyrights, Trademarks, Disclaimer, and Limitations
-### are posted on https://cybercontrolsmatrix.com
+### Required Attribution, Copyrights, Trademarks, Disclaimer, and Limitations are posted on https://cybercontrolsmatrix.com
 
 ***
 
