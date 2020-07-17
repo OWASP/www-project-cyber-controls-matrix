@@ -156,25 +156,37 @@ The OWASP Foundation, Inc. is a non-profit 501(c)(3) charitable organization. So
 
 For any questions regarding this section, send an email to: [occm@cybercontrolsmatrix.com](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Legal)
 
-#### Image Use
-
-Images created or taken from the OWASP Cyber Controls Matrix (OCCM), OCCM content, and this website may be used if the following attribution is given beneath the image or in the image caption: "Image credit https://cybercontrolsmatrix.com". If the image content has been modified (excluding size, color, positioning, and formatting changes) or added to other content, the following attribution must be given instead: "Adapted from https://cybercontrolsmatrix.com".
-
 #### Required Attribution
 
-Per the open license, all of the paragraphs within the License, Copyright & Trademarks, and Disclaimer & Limitations sections must be included as full attribution -- including the links in parenthesis, as functional or non-functional -- with, but not limited to: any written / electronic distribution, creation, content, output, or product; documentation; repository; webpage; software; forks; or any other distribution, creation, content, output, or product that incorporates any part or whole of the OWASP Cyber Controls Matrix (OCCM) or associated content.
+##### Full Attribution
 
-Partial exception is made for online postings and blog entries (personal or commercial), whose attribution must at minimum mention the "OWASP Cyber Controls Matrix (OCCM)" and its website "https://cybercontrolsmatrix.com". Further mention of the creator "Eric Bragger" and any listed core team members is highly encouraged and appreciated.
+Per the License, all of the paragraphs within the "License", "Copyrights & Trademarks", and "Disclaimer & Limitations" sections must be included as full attribution -- including the links in parenthesis, as functional or non-functional -- with, but not limited to: any written / electronic distribution, creation, content, output, or product; documentation; repository; webpage; software; forks; or any other distribution, creation, content, output, or product that incorporates any part or whole of the OWASP Cyber Controls Matrix (OCCM) or associated content.
 
-Partial exception is made for commercial articles, white papers, documentation, and sales collateral; whose attribution must at minimum contain the first paragraph of the Copyright & Trademarks section -- including the links in parenthesis, as functional or non-functional.
+##### Partial Exception: Image Use
+
+Partial exception is made for image use. Images created or taken from the OWASP Cyber Controls Matrix (OCCM), OCCM content, and this website may be used if the following Required Attribution is given beneath the image or in the image caption: "Image credit https://cybercontrolsmatrix.com". If the image content has been modified (excluding size, color, positioning, and formatting changes) or added to other content, the following Required Attribution must be given instead: "Adapted from https://cybercontrolsmatrix.com".
+
+##### Partial Exception: Online Postings and Blog Entries
+
+Partial exception is made for online postings and blog entries (personal or commercial), whose Required Attribution must at minimum mention the "OWASP Cyber Controls Matrix (OCCM)" and its website "https://cybercontrolsmatrix.com". Further mention of the creator "Eric Bragger" and any listed core team members is highly encouraged and appreciated.
+
+##### Partial Exception: Commercial Articles, White Papers, Documentation, and Sales Collateral
+
+Partial exception is made for commercial articles, white papers, documentation, and sales collateral; whose Required Attribution must at minimum contain the first paragraph of the Copyrights & Trademarks section -- including the links in parenthesis, as functional or non-functional.
+
+#### No Endorsement
 
 No endorsement by the OCCM may be asserted, expressed, or implied via attribution or otherwise. The OCCM is not connected with, does not sponsor, does not endorse, and does not officially recognize any product, service, publication, or any other use.
+
+#### Modification of Licensed Materials
+
+Per the License, modifications made to the Licensed material must be indicated with distribution, including of anything incorporating the license. This indication is typically kept with the Required Attribution statements. These modifications do not need to be detailed or specific, but must be reasonable to the means, medium, and context of the modification. Changes to formatting and correction of errors do not require indications. Technical modifications of media and format do not require such indications.
 
 #### License
 
 The OWASP Cyber Controls Matrix (OCCM) is licensed under a [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license for free use and adaptation, including commercial and government, with attribution. Additional license terms and conditions are detailed within the Required Attribution section text that must be provided with use or distribution of the OCCM.
 
-#### Copyright & Trademarks
+#### Copyrights & Trademarks
 
 The OWASP Cyber Controls Matrix (OCCM) [(https://cybercontrolsmatrix.com)](https://cybercontrolsmatrix.com) is copyright the OWASP Foundation, Inc. [(https://owasp.org)](https://owasp.org) and its creator Eric Bragger [(https://www.linkedin.com/in/eric-bragger/)](https://www.linkedin.com/in/eric-bragger/). All rights reserved. Control Identifiers (IDs), Control Names, Control Headings, Control Set Names, Framework Names, and associated content are copyright their respective owners. "OWASP"™ is trademark the OWASP Foundation, Inc. "Cyber Controls Matrix"™, "Open Cyber Controls Matrix"™, "OCCM"™, and "OCCM Cyber Taxonomy"™, including their logos and trade dress, are trademark Eric Bragger. All other trademarks belong to their respective owners.
 
