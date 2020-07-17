@@ -1,3 +1,9 @@
+## IMPORTANT:
+### Required Attribution, Copyrights, Trademarks, Disclaimer, and Limitations
+### are posted on https://cybercontrolsmatrix.com
+
+***
+
 ## License Summary of CC-BY 4.0 International
 
 *This section is a human-readable summary of (and not a substitute for) the full license included below.*
@@ -20,6 +26,8 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable **exception or limitation**.
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as **publicity, privacy, or moral rights** may limit how you use the material.
+
+***
 
 # Creative Commons Attribution 4.0 International License
 
