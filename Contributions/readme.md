@@ -14,7 +14,7 @@ Contributors acknowledge that by contributing, copyright for all contributions w
 
 **3.  Control H/M/L Topics must correspond to H/M/L Topics (*NOT ALIASES*) in the Taxonomy.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;(Aliases are only used for reference, to support each taxonomy entry, and may be repeated.)
+&nbsp;&nbsp;&nbsp;&nbsp;Aliases are only used for reference, to support each taxonomy entry, and may be repeated.
 
 **4.  Note that one Control will usually have multiple sets of relevant Topics. Try to identify and submit them all.**
 
@@ -22,11 +22,11 @@ Contributors acknowledge that by contributing, copyright for all contributions w
 
 * **Taxonomy Contribution Schema:**
   * High-Level Topic (HLT),HLT Aliases,Medium-Level Topic (MLT),MLT Aliases,Low-Level Topic (LLT),LLT Aliases,Contributors
-  * Required: One or more topics.
+  * Required: High-Level Topic (HLT).
 
 * **Controls Contribution Schema:**
   * Control Set,Control Set Name,Control Sector,Abstraction,High-Level Topic (Area),Mid-Level Topic (Object),Low-Level Topic (Target),Control ID,Level,Control Name,Inactive,Notes,Contributors
-  * Required: Control Set. Control Name. One or more topic levels. If the Control has enough detail, two or three topic levels.
+  * Required: Control Set. High-Level +/- Mid-Level +/- Low-Level Topic commensurate with Control detail. Control ID. Level. Control Name.
 
 ## Recognition
 
