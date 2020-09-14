@@ -58,7 +58,7 @@ Most organizations today must comply with two or more standards in their quest f
 
 #### Knowledge
 
-The OCCM points cyber analysts to knowledge across all standards; consisting of guidance, insights, references, and best practices. This greatly improves understanding of how to implement and document controls, resulting in increased security and better audit outcomes. Gaps between standards are revealed, enabling more comprehensive, secure implementations. Costly mistakes are avoided thanks to visibility of multiple standards; ensuring that today's decisions also satisfy future compliance needs, not just the most immediate ones.
+The OCCM points cyber analysts to knowledge across all standards; consisting of guidance, insights, references, and best practices. This greatly improves understanding of how to best implement and document controls, resulting in increased security and better audit outcomes. Gaps between standards are revealed, enabling more comprehensive and secure implementations. Costly mistakes are avoided, thanks to visibility into multiple standards; ensuring that today's decisions also satisfy future compliance needs, not just the most immediate ones.
 
 #### Cyber Taxonomy
 
