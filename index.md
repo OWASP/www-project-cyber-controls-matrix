@@ -58,7 +58,7 @@ Most organizations today must comply with two or more standards in their quest f
 
 #### Knowledge
 
-The OCCM points cyber analysts to knowledge across all standards; consisting of guidance, insights, references, and best practices. This greatly improves understanding of how to implement and document controls, resulting in improved security and improved audit outcomes. Gaps between standards are identified, enabling more comprehensive implementations. Costly mistakes are avoided thanks to visibility of other standards; ensuring that decisions also satisfy future security needs, not just the immediate ones.
+The OCCM points cyber analysts to knowledge across all standards; consisting of guidance, insights, references, and best practices. This greatly improves understanding of how to implement and document controls, resulting in increased security and better audit outcomes. Gaps between standards are revealed, enabling more comprehensive, secure implementations. Costly mistakes are avoided thanks to visibility of multiple standards; ensuring that today's decisions also satisfy future compliance needs, not just the most immediate ones.
 
 #### Cyber Taxonomy
 
@@ -66,9 +66,7 @@ There is a multi-level cyber taxonomy at the core of the OCCM, to which all the 
 
 #### Levels of Detail
 
-Controls in the OCCM are included at all available levels and each of those controls is normalized to three separate levels of detail in the OCCM Cyber Taxonomy. Audit checks are also supported. This ensures a comprehensive mapping that dives deep into the control set / framework, versus the surface mappings common in the industry that only indicate top-level controls.
-
-Every Control entry in the OCCM is given one Control Level and is assigned one or more groups of High Level, Medium Level, and Low Level Topics in the OCCM Cyber Taxonomy.
+Controls in the OCCM are included at all available Control Levels and each of those controls is normalized to three separate Mapping Levels of Detail in the OCCM Cyber Taxonomy. This ensures a comprehensive mapping that dives deep into the control set / framework, versus the surface-level mappings common in the industry that only indicate top-level controls at a single, often general level of detail.
 
 * Control Levels for Each Control
 
@@ -76,6 +74,7 @@ Every Control entry in the OCCM is given one Control Level and is assigned one o
   - Top-Level Controls
   - Sub-Controls
   - Enhancements
+  - Audit Checks
   - etc.
 <p>
 </p>
@@ -96,16 +95,16 @@ Every Control entry in the OCCM is given one Control Level and is assigned one o
 
 Control relationships in the OCCM are directly mapped and viewable at the three separate levels of detail, resolving the fundamental issues of too-strict or too-loose mapping. Each individual control in the OCCM relates directly to other controls ("one-to-many"), instead of the common industry practice of grouping controls together ("many-to-many"). This common practice results in a handshake problem, where every control in group "A" is mapped to every other control in group "B".
 
-For example, the group mapping "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5" generates 25 total relationships! This requires analysis of 5 relationships per "A" control, some of which may have little to no direct relevance.
+For example, the group mapping "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5" generates 25 total relationships! This results in manual analysis of 5 relationships per "A" control, some of which have little to no direct relevance.
 
 Using the OCCM, this example can be greatly simplified and reduced to...
-- High Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1, B2, B3" &nbsp;&nbsp; \[3 relationships]
--	Medium Level Mapping &nbsp;&nbsp;&nbsp; "A1 -> B1, B2" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[2 relationships]
--	Low Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[1 relationship]
+- High Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1, B2, B3" &nbsp;&nbsp; \[3 general relationships]
+-	Medium Level Mapping &nbsp;&nbsp;&nbsp; "A1 -> B1, B2" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[2 similar relationships]
+-	Low Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \[1 specific relationship]
 
 #### Growth
 
-The OCCM has been designed with the principles of easy contribution, accelerated growth, and continuous improvement. Once a new control is added and normalized, it is automatically mapped to every other control across all standards. There is no longer a need for an analyst to search for a mapping between two different standards or create their own. Every standard in the OCCM is automatically mapped to every other standard, exponentially increasing its scope.
+The OCCM has been designed with the principles of easy contribution, accelerated growth, and continuous improvement. Once a new control is added and normalized, it is automatically mapped to every other control across all standards. There is no longer a need for an analyst to search for a mapping between two different standards. Every standard in the OCCM is automatically mapped to every other standard, exponentially increasing its scope with every contribution.
 
 ***
 ## Industry Perspectives
@@ -123,7 +122,7 @@ The OCCM has been designed with the principles of easy contribution, accelerated
 ***
 ## From the Creator / Project Leader
 
-"The capabilities of the OWASP Cyber Controls Matrix are something I have wanted to see my entire career. It is my honor to create it and give it to the entire Cybersecurity industry as an open-source OWASP project. Per the license, I encourage commercial products, non-commercial products, and cyber practitioners to fully incorporate it and contribute back to the project. First and foremost, the OCCM is a community driven effort. All submissions, ideas, promotion, and discourse are greatly appreciated. Thank you for your support!"
+"The capabilities of the OWASP Cyber Controls Matrix are something I have wanted to see my entire career. It is my honor to create it and provide it to the entire Cybersecurity industry as an open-source OWASP project. Per the license, I encourage commercial products, non-commercial products, and cyber practitioners to fully incorporate it and contribute back to the project. First and foremost, the OCCM is a community driven effort. All submissions, ideas, promotion, and discourse are greatly appreciated. Thank you for your support!"
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Eric Bragger [(LinkedIn)](https://www.linkedin.com/in/eric-bragger/) [(Email)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Website)
 
 ***
@@ -138,7 +137,7 @@ Your Name Here (Your URL Here)
 ***
 ## Contributions
 
-Contributions to the OCCM are welcome and appreciated. Please [(contact us)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Contributor) to get started.
+Contributions of data to the OCCM are welcome and appreciated. Please [(contact us)](mailto://occm@cybercontrolsmatrix.com?subject=OCCM Contributor) to get started.
 
 Contributors acknowledge that by contributing, copyright for any and all contributions will be transferred in full to the OWASP Foundation, the OCCM Creator, and the OCCM Project Leader. Please see the "Legal" section for further details.
 
