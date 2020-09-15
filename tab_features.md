@@ -35,10 +35,10 @@ tags: OCCM
   - Each Control is individually evaluated to others, greatly reducing the analysis needed to only directly relevant Controls.
   - One-to-many mapping provides a very direct result:
   
-    "A1 --> B1, B2".
+    "A1 --> B1, B2"
   - Many-to-many mapping provides an indirect, grouped result:
   
-    "A1, A2, A3, A4, A5 --> B1, B2, B3, B4, B5".
+    "A1, A2, A3, A4, A5 --> B1, B2, B3, B4, B5"
 <p></p>
 
 * **Mapping at Three Separate Levels of Detail**
