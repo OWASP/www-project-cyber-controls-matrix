@@ -95,7 +95,7 @@ Controls in the OCCM are included at all available Control Levels and each of th
 
 Control relationships in the OCCM are directly mapped and viewable at the three separate levels of detail, resolving the fundamental issues of too-strict or too-loose mapping. Each individual control in the OCCM relates directly to other controls ("one-to-many"), instead of the common industry practice of grouping controls together ("many-to-many"). This common practice results in a handshake problem, where every control in group "A" is mapped to every other control in group "B".
 
-For example, the group mapping "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5" generates 25 total relationships! This results in manual analysis of 5 relationships per "A" control, some of which have little to no direct relevance.
+For example, the group mapping "A1, A2, A3, A4, A5 -> B1, B2, B3, B4, B5" generates 25 total relationships! This results in manual analysis of 5 relationships per "A" control, some of which have little or no direct relevance.
 
 Using the OCCM, this example is greatly simplified and reduced via direct mapping...
 - High Level Mapping &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "A1 -> B1, B2, B3" &nbsp;&nbsp; \[3 general relationships]
@@ -160,19 +160,19 @@ For any questions regarding this section, send an email to: [occm@cybercontrolsm
 
 #### Required Attribution
 
-##### Full Attribution
+##### - Full Attribution
 
 Per the License, all of the paragraphs within the "License", "Copyrights & Trademarks", and "Disclaimer & Limitations" sections must be included as full attribution -- including the links in parenthesis, as functional or non-functional -- with, but not limited to: any written / electronic distribution, creation, content, output, or product; documentation; repository; webpage; software; forks; or any other distribution, creation, content, output, or product that incorporates any part or whole of the OWASP Cyber Controls Matrix (OCCM) or associated content.
 
-##### Special Exception: Image Use
+##### - Special Exception: Image Use
 
 Special exception is made for image use. Images created or taken from the OWASP Cyber Controls Matrix (OCCM), OCCM content, and this website may be used if the following Required Attribution is given beneath the image or in the image caption: "Image credit https://cybercontrolsmatrix.com". If the image content has been modified (excluding size, color, positioning, and formatting changes) or added to other content, the following Required Attribution must be given instead: "Adapted from https://cybercontrolsmatrix.com".
 
-##### Special Exception: Online Postings and Blog Entries
+##### - Special Exception: Online Postings and Blog Entries
 
 Special exception is made for online postings and blog entries (personal or commercial), whose Required Attribution must at minimum mention the "OWASP Cyber Controls Matrix (OCCM)" and its website "https://cybercontrolsmatrix.com". Further mention of the creator "Eric Bragger" and any listed core team members is highly encouraged and appreciated.
 
-##### Special Exception: Commercial Articles, White Papers, Documentation, and Sales Collateral
+##### - Special Exception: Commercial Articles, White Papers, Documentation, and Sales Collateral
 
 Special exception is made for commercial articles, white papers, documentation, and sales collateral; whose Required Attribution must at minimum contain the first paragraph of the "Copyrights & Trademarks" section -- including the links in parenthesis, as functional or non-functional.
 
