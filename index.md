@@ -107,7 +107,7 @@ Using the OCCM, this example is greatly simplified and reduced via direct mappin
 The OCCM has been designed with the principles of easy contribution, accelerated growth, and continuous improvement. Once a new control is added and normalized, it is automatically mapped to every other control across all standards. There is no longer a need for an analyst to search for a mapping between two different standards. Every standard in the OCCM is automatically mapped to every other standard, exponentially increasing its scope with every contribution.
 
 ***
-<p><br><h3 style="text-align:center">For more information, see the Benefits, Features, and FAQ tabs.</h3><br></p>
+<p><br><h3>For more information, see the Benefits, Features, and FAQ tabs.</h3><br></p>
 
 ***
 ## Industry Perspectives
