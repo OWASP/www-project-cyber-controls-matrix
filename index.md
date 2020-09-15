@@ -9,6 +9,13 @@ pitch: Solve the problem of multiple cyber standards by consolidating them, redu
 
 ---
 
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Solve the problem of multiple cyber standards by consolidating them, reducing timelines and effort by months!" />
+<meta property="og:description" content="Solve the problem of multiple cyber standards by consolidating them, reducing timelines and effort by months!" />
+<meta propery="og:title" content="OWASP Cyber Controls Matrix (OCCM)" />
+<meta property="og:url" content="https://owasp.org/www-project-cyber-controls-matrix/" />
+<meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
 <meta property="og:image" content="https://owasp.org/www-project-cyber-controls-matrix/assets/images/OCCM-logo-1000x348-wht.png" />
 
