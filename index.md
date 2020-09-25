@@ -94,7 +94,7 @@ Controls in the OCCM are included at all available Control Levels and each of th
   - Medium Level Topics (Objects)
     - <small>ex. "Policy" within a Control stating "Ensure there is a Disaster Recovery (H) <b>Policy (M)</b> that identifies Roles and Responsibilities (L) and Mission-Critical Environments (L)."</small>
 
-  - Low Level Topics (Targets)
+  - Low Level Topics (Details)
     - <small>ex. "Roles and Responsibilities" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) that identifies <b>Roles and Responsibilities (L)</b> and Mission-Critical Environments (L)."
     - <small>ex. "Mission-Critical Environments" within a Control stating "Ensure there is a Disaster Recovery (H) Policy (M) that identifies Roles and Responsibilities (L) and <b>Mission-Critical Environments (L)</b>."</small>
 
